@@ -1,0 +1,2688 @@
+@article{Knight1996PCF1,
+  title = {All-silica single-mode optical fiber with photonic crystal cladding},
+  author = {Knight, J. C. and Birks, T. A. and Russell, P. S. J. and Atkin, D. M.},
+  year = {1996},
+  journal = {Optics Letters},
+  volume = {21},
+  number = {19},
+  pages = {1547-1549},
+  note = {Manuscript reference 1; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Russell2003PCF2,
+  title = {Photonic crystal fibers},
+  author = {Russell, P. S. J.},
+  year = {2003},
+  journal = {Science},
+  volume = {299},
+  number = {5605},
+  pages = {358-362},
+  note = {Manuscript reference 2; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Knight2003PCF3,
+  title = {Photonic crystal fibres},
+  author = {Knight, J. C.},
+  year = {2003},
+  journal = {Nature},
+  volume = {424},
+  number = {6950},
+  pages = {847-851},
+  note = {Manuscript reference 3; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Birks1997PCF4,
+  title = {Endlessly single-mode photonic crystal fiber},
+  author = {Birks, T. A. and Knight, J. C. and Russell, P. S. J.},
+  year = {1997},
+  journal = {Optics Letters},
+  volume = {22},
+  number = {13},
+  pages = {961-963},
+  note = {Manuscript reference 4; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Cregan1999PCF5,
+  title = {Single-mode photonic band gap guidance of light in air},
+  author = {Cregan, R. F. and others},
+  year = {1999},
+  journal = {Science},
+  volume = {285},
+  number = {5433},
+  pages = {1537-1539},
+  note = {Manuscript reference 5; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Joannopoulos2011PCF6,
+  title = {Photonic Crystals: Molding the Flow of Light (2nd ed.)},
+  author = {Joannopoulos, J. D. and Johnson, S. G. and Winn, J. N. and Meade, R. D.},
+  year = {2011},
+  publisher = {Princeton University Press},
+  note = {Manuscript reference 6; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Agrawal2013PCF7,
+  title = {Nonlinear Fiber Optics (5th ed.)},
+  author = {Agrawal, G. P.},
+  year = {2013},
+  publisher = {Academic Press},
+  note = {Manuscript reference 7; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Monro1999PCF8,
+  title = {Holey optical fibers: An efficient modal model},
+  author = {Monro, T. M. and others},
+  year = {1999},
+  journal = {Journal of Lightwave Technology},
+  volume = {17},
+  number = {6},
+  pages = {1093-1102},
+  note = {Manuscript reference 8; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Zhu2002PCF9,
+  title = {Full-vectorial finite-difference analysis of microstructured optical fibers},
+  author = {Zhu, Z. and Brown, T. G.},
+  year = {2002},
+  publisher = {Optics Express},
+  volume = {10},
+  number = {17},
+  pages = {853-864},
+  note = {Manuscript reference 9; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Cucinotta2002PCF10,
+  title = {Perturbation analysis of dispersion properties in photonic crystal fibers through the finite element method},
+  author = {Cucinotta, A. and Selleri, S. and Vincetti, L. and Zoboli, M.},
+  year = {2002},
+  journal = {Journal of Lightwave Technology},
+  volume = {20},
+  number = {8},
+  pages = {1433-1442},
+  note = {Manuscript reference 10; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Page2021PCF11,
+  title = {The PRISMA 2020 statement: An updated guideline for reporting systematic reviews},
+  author = {Page, M. J. and others},
+  year = {2021},
+  journal = {BMJ},
+  volume = {372},
+  pages = {n71},
+  doi = {10.1136/bmj.n71},
+  url = {https://www.bmj.com/content/372/bmj.n71},
+  note = {Manuscript reference 11; Background / method / foundational; Web verified: PRISMA/BMJ;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Moher2009PCF12,
+  title = {Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement},
+  author = {Moher, D. and Liberati, A. and Tetzlaff, J. and Altman, D. G. and {PRISMA Group}},
+  year = {2009},
+  journal = {PLOS Medicine},
+  volume = {6},
+  number = {7},
+  pages = {e1000097},
+  note = {Manuscript reference 12; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Higgins2011PCF13,
+  title = {Cochrane Handbook for Systematic Reviews of Interventions (Version 5.1.0)},
+  author = {Higgins, J. P. T. and Green, S.},
+  year = {2011},
+  journal = {The Cochrane Collaboration},
+  note = {Manuscript reference 13; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Kitchenham2004PCF14,
+  title = {Procedures for performing systematic reviews},
+  author = {Kitchenham, B.},
+  year = {2004},
+  journal = {Keele University Technical Report TR/SE-0401},
+  note = {Manuscript reference 14; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{LeCun2015PCF15,
+  title = {Deep learning},
+  author = {LeCun, Y. and Bengio, Y. and Hinton, G.},
+  year = {2015},
+  journal = {Nature},
+  volume = {521},
+  number = {7553},
+  pages = {436-444},
+  note = {Manuscript reference 15; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Goodfellow2016PCF16,
+  title = {Deep Learning},
+  author = {Goodfellow, I. and Bengio, Y. and Courville, A.},
+  year = {2016},
+  publisher = {MIT Press},
+  note = {Manuscript reference 16; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Goodfellow2014PCF17,
+  title = {Generative adversarial nets},
+  author = {Goodfellow, I. and others},
+  year = {2014},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {27},
+  pages = {2672-2680},
+  note = {Manuscript reference 17; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@misc{Kingma2013PCF18,
+  title = {Auto-encoding variational Bayes},
+  author = {Kingma, D. P. and Welling, M.},
+  year = {2013},
+  howpublished = {arXiv preprint arXiv:1312.6114},
+  note = {Manuscript reference 18; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Ho2020PCF19,
+  title = {Denoising diffusion probabilistic models},
+  author = {Ho, J. and Jain, A. and Abbeel, P.},
+  year = {2020},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {33},
+  pages = {6840-6851},
+  note = {Manuscript reference 19; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Vaswani2017PCF20,
+  title = {Attention is all you need},
+  author = {Vaswani, A. and others},
+  year = {2017},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {30},
+  pages = {5998-6008},
+  note = {Manuscript reference 20; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@inproceedings{He2016PCF21,
+  title = {Deep residual learning for image recognition},
+  author = {He, K. and Zhang, X. and Ren, S. and Sun, J.},
+  year = {2016},
+  booktitle = {Proceedings of the IEEE CVPR},
+  pages = {770-778},
+  note = {Manuscript reference 21; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hochreiter1997PCF22,
+  title = {Long short-term memory},
+  author = {Hochreiter, S. and Schmidhuber, J.},
+  year = {1997},
+  journal = {Neural Computation},
+  volume = {9},
+  number = {8},
+  pages = {1735-1780},
+  note = {Manuscript reference 22; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Breiman2001PCF23,
+  title = {Random forests},
+  author = {Breiman, L.},
+  year = {2001},
+  journal = {Machine Learning},
+  volume = {45},
+  number = {1},
+  pages = {5-32},
+  note = {Manuscript reference 23; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@inproceedings{Chen2016PCF24,
+  title = {XGBoost: A scalable tree boosting system},
+  author = {Chen, T. and Guestrin, C.},
+  year = {2016},
+  booktitle = {Proceedings of the 22nd ACM SIGKDD},
+  pages = {785-794},
+  note = {Manuscript reference 24; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Cortes1995PCF25,
+  title = {Support-vector networks},
+  author = {Cortes, C. and Vapnik, V.},
+  year = {1995},
+  journal = {Machine Learning},
+  volume = {20},
+  number = {3},
+  pages = {273-297},
+  note = {Manuscript reference 25; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Rasmussen2006PCF26,
+  title = {Gaussian Processes for Machine Learning},
+  author = {Rasmussen, C. E. and Williams, C. K. I.},
+  year = {2006},
+  publisher = {MIT Press},
+  note = {Manuscript reference 26; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Raissi2019PCF27,
+  title = {Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving PDEs},
+  author = {Raissi, M. and Perdikaris, P. and Karniadakis, G. E.},
+  year = {2019},
+  journal = {Journal of Computational Physics},
+  volume = {378},
+  pages = {686-707},
+  note = {Manuscript reference 27; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Snoek2012PCF28,
+  title = {Practical Bayesian optimization of machine learning algorithms},
+  author = {Snoek, J. and Larochelle, H. and Adams, R. P.},
+  year = {2012},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {25},
+  pages = {2951-2959},
+  note = {Manuscript reference 28; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Lundberg2017PCF29,
+  title = {A unified approach to interpreting model predictions},
+  author = {Lundberg, S. M. and Lee, S. I.},
+  year = {2017},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {30},
+  pages = {4765-4774},
+  note = {Manuscript reference 29; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Dosovitskiy2021PCF30,
+  title = {An image is worth 16x16 words: Transformers for image recognition at scale},
+  author = {Dosovitskiy, A. and others},
+  year = {2021},
+  journal = {ICLR 2021},
+  note = {Manuscript reference 30; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Deb2002PCF31,
+  title = {A fast and elitist multiobjective genetic algorithm: NSGA-II},
+  author = {Deb, K. and others},
+  year = {2002},
+  journal = {IEEE Transactions on Evolutionary Computation},
+  volume = {6},
+  number = {2},
+  pages = {182-197},
+  note = {Manuscript reference 31; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@inproceedings{Kennedy1995PCF32,
+  title = {Particle swarm optimization},
+  author = {Kennedy, J. and Eberhart, R.},
+  year = {1995},
+  booktitle = {Proceedings of the IEEE International Conference on Neural Networks},
+  volume = {4},
+  pages = {1942-1948},
+  note = {Manuscript reference 32; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@misc{Hansen2016PCF33,
+  title = {The CMA evolution strategy: A tutorial},
+  author = {Hansen, N.},
+  year = {2016},
+  howpublished = {arXiv preprint arXiv:1604.00772},
+  note = {Manuscript reference 33; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Storn1997PCF34,
+  title = {Differential evolution - A simple and efficient heuristic for global optimization over continuous spaces},
+  author = {Storn, R. and Price, K.},
+  year = {1997},
+  journal = {Journal of Global Optimization},
+  volume = {11},
+  number = {4},
+  pages = {341-359},
+  note = {Manuscript reference 34; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Molesky2018PCF35,
+  title = {Inverse design in nanophotonics},
+  author = {Molesky, S. and others},
+  year = {2018},
+  journal = {Nature Photonics},
+  volume = {12},
+  number = {11},
+  pages = {659-670},
+  note = {Manuscript reference 35; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Peurifoy2018PCF36,
+  title = {Nanophotonic particle simulation and inverse design using artificial neural networks},
+  author = {Peurifoy, J. and others},
+  year = {2018},
+  journal = {Science Advances},
+  volume = {4},
+  number = {6},
+  pages = {eaar4206},
+  note = {Manuscript reference 36; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Liu2018PCF37,
+  title = {Training deep neural networks for the inverse design of nanophotonic structures},
+  author = {Liu, D. and others},
+  year = {2018},
+  journal = {ACS Photonics},
+  volume = {5},
+  number = {4},
+  pages = {1365-1369},
+  note = {Manuscript reference 37; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Jiang2021PCF38,
+  title = {Deep neural networks for the evaluation and design of photonic devices},
+  author = {Jiang, J. and Chen, M. and Fan, J. A.},
+  year = {2021},
+  journal = {Nature Reviews Materials},
+  volume = {6},
+  number = {8},
+  pages = {679-700},
+  note = {Manuscript reference 38; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wiecha2021PCF39,
+  title = {Deep learning in nano-photonics: Overcoming the computational-cost barrier},
+  author = {Wiecha, P. R. and others},
+  year = {2021},
+  journal = {Photonics Research},
+  volume = {9},
+  number = {5},
+  pages = {B182-B202},
+  note = {Manuscript reference 39; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{So2020PCF40,
+  title = {Revisiting the design of functional metasurfaces using deep learning},
+  author = {So, S. and Mun, J. and Park, J. and Rho, J.},
+  year = {2020},
+  journal = {APL Photonics},
+  volume = {5},
+  number = {9},
+  pages = {091302},
+  note = {Manuscript reference 40; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Genty2021PCF41,
+  title = {Machine learning and applications in ultrafast photonics},
+  author = {Genty, G. and others},
+  year = {2021},
+  journal = {Nature Photonics},
+  volume = {15},
+  number = {2},
+  pages = {91-101},
+  note = {Manuscript reference 41; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Brunton2020PCF42,
+  title = {Machine learning for fluid mechanics},
+  author = {Brunton, S. L. and Noack, B. R. and Koumoutsakos, P.},
+  year = {2020},
+  journal = {Annual Review of Fluid Mechanics},
+  volume = {52},
+  pages = {477-508},
+  note = {Manuscript reference 42; Background / method / foundational; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Chugh2019PCF43,
+  title = {Machine learning approach for computing optical properties of a photonic crystal fiber},
+  author = {Chugh, S. and Gulistan, A. and Ghosh, S. and Rahman, B. M. A.},
+  year = {2019},
+  publisher = {Optics Express},
+  volume = {27},
+  number = {25},
+  pages = {36414-36425},
+  doi = {10.1364/OE.27.036414},
+  url = {https://opg.optica.org/abstract.cfm?uri=oe-27-25-36414},
+  note = {Manuscript reference 43; Primary study claimed by manuscript; Web verified: Optica/City repository;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hasan2020PCF44,
+  title = {Highly sensitive biosensor using a photonic crystal fiber with ANN-aided optimization},
+  author = {Hasan, M. R. and Islam, M. A. and Anower, M. S.},
+  year = {2020},
+  journal = {Optical Fiber Technology},
+  volume = {58},
+  pages = {102281},
+  note = {Manuscript reference 44; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Rana2021PCF45,
+  title = {Machine learning-assisted design of PCF for THz applications: A survey},
+  author = {Rana, S. and Raizada, V.},
+  year = {2021},
+  journal = {Optik},
+  volume = {242},
+  pages = {167095},
+  note = {Manuscript reference 45; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Wang2021PCF46,
+  title = {Deep neural networks for image-based forward modeling of microstructured optical fibers},
+  author = {Wang, G. and Tan, Y. and Yu, Z.},
+  year = {2021},
+  publisher = {Optics Express},
+  volume = {29},
+  number = {14},
+  pages = {21345-21358},
+  note = {Manuscript reference 46; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Islam2022PCF47,
+  title = {Exploring machine learning for prediction of optical properties in liquid-infiltrated PCF biosensors},
+  author = {Islam, M. S. and Ahmed, K.},
+  year = {2022},
+  journal = {Results in Physics},
+  volume = {38},
+  pages = {105572},
+  note = {Manuscript reference 47; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Ahmed2023PCF48,
+  title = {Deep learning surrogate model for photonic crystal fiber dispersion engineering},
+  author = {Ahmed, K. and Hossain, M. B.},
+  year = {2023},
+  journal = {Optics \& Laser Technology},
+  volume = {162},
+  pages = {109286},
+  note = {Manuscript reference 48; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hossain2023PCF49,
+  title = {XGBoost-assisted rapid optimization of PCF-based chemical sensors},
+  author = {Hossain, M. B. and Ahmed, K. and Paul, B. K.},
+  year = {2023},
+  journal = {Sensors and Actuators A: Physical},
+  volume = {357},
+  pages = {114392},
+  note = {Manuscript reference 49; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Yao2023PCF50,
+  title = {Inverse design of dispersion for photonic devices using LSTM-gradient-free hybrid optimization},
+  author = {Yao, T. and Zhang, L.},
+  year = {2023},
+  journal = {Journal of the Optical Society of America B},
+  volume = {40},
+  number = {5},
+  pages = {1124-1135},
+  note = {Manuscript reference 50; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zhang2024PCF51,
+  title = {Variational autoencoder for inverse design of THz-PCF structures},
+  author = {Zhang, L. and Chen, Y. and Wang, X.},
+  year = {2024},
+  journal = {Journal of Lightwave Technology},
+  volume = {42},
+  number = {3},
+  pages = {1234-1244},
+  note = {Manuscript reference 51; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Chen2024PCF52,
+  title = {Physics-informed neural networks for photonic crystal fiber mode analysis},
+  author = {Chen, Y. and Zhang, L. and Liu, H.},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {5},
+  pages = {7812-7825},
+  note = {Manuscript reference 52; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wang2024PCF53,
+  title = {Transformer-based model for broadband PCF property prediction},
+  author = {Wang, X. and Park, J. S.},
+  year = {2024},
+  journal = {Photonics Research},
+  volume = {12},
+  number = {4},
+  pages = {823-836},
+  note = {Manuscript reference 53; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Park2025PCF54,
+  title = {Denoising diffusion probabilistic models for photonic crystal fiber inverse design},
+  author = {Park, J. S. and Kim, H. and Lee, S.},
+  year = {2025},
+  journal = {Nature Computational Science},
+  volume = {5},
+  number = {2},
+  pages = {112-124},
+  note = {Manuscript reference 54; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Rahman2025PCF55,
+  title = {Benchmarking ML algorithms for optical property prediction in asymmetric dual-core PCFs},
+  author = {Rahman, B. M. A. and Ghosh, S.},
+  year = {2025},
+  journal = {Optical Fiber Technology},
+  volume = {91},
+  pages = {103451},
+  note = {Manuscript reference 55; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Singh2026PCF56,
+  title = {Multi-head attention DL frameworks for extreme nonlinearity tracking in chalcogenide fibers},
+  author = {Singh, R. and Kumar, A.},
+  year = {2026},
+  journal = {IEEE Journal of Selected Topics in Quantum Electronics},
+  volume = {32},
+  number = {1},
+  pages = {4501211},
+  note = {Manuscript reference 56; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; Published online: January 2026},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Ehyaee2024PCF57,
+  title = {ML-enhanced surface plasmon resonance based PCF sensor},
+  author = {Ehyaee, A. and Rahmati, A. and Bosaghzadeh, A. and Olyaee, S.},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {8},
+  pages = {13369-13384},
+  note = {Manuscript reference 57; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Khatun2024PCF58,
+  title = {Design optimization of high-sensitivity PCF-SPR biosensor using ML and explainable AI},
+  author = {Khatun, M.},
+  year = {2024},
+  journal = {PLOS One},
+  volume = {19},
+  number = {6},
+  pages = {e0302145},
+  note = {Manuscript reference 58; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@inproceedings{Ouyang2024PCF59,
+  title = {Inverse design and band gap prediction of photonic crystal microcavities based on deep learning},
+  author = {Ouyang, T.},
+  year = {2024},
+  booktitle = {Proceedings of SPIE},
+  volume = {13105},
+  pages = {131050G},
+  note = {Manuscript reference 59; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Wang2025PCF60,
+  title = {Towards scalable and accurate property prediction for PCFs with federated learning},
+  author = {Wang, G.},
+  year = {2025},
+  publisher = {Optics Express},
+  volume = {33},
+  number = {2},
+  pages = {2415-2430},
+  note = {Manuscript reference 60; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Li2010PCF61,
+  title = {Design optimization of index-guiding PCFs using backpropagation networks},
+  author = {Li, K. and Rahman, B. M. A.},
+  year = {2010},
+  journal = {Journal of Lightwave Technology},
+  volume = {28},
+  number = {4},
+  pages = {512-518},
+  note = {Manuscript reference 61; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Smith2011PCF62,
+  title = {SVR surrogate modeling for confinement loss in hexagonal PCFs},
+  author = {Smith, J. and Johnson, M.},
+  year = {2011},
+  journal = {Optical Fiber Technology},
+  volume = {17},
+  number = {3},
+  pages = {201-207},
+  note = {Manuscript reference 62; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zhao2012PCF63,
+  title = {FEM data generation and ANN optimization of high-birefringence PCFs},
+  author = {Zhao, X. and others},
+  year = {2012},
+  journal = {Optik},
+  volume = {123},
+  number = {14},
+  pages = {1245-1250},
+  note = {Manuscript reference 63; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Kumar2012PCF64,
+  title = {Chromatic dispersion engineering in PCFs using MLP regression},
+  author = {Kumar, A. and others},
+  year = {2012},
+  journal = {IEEE Photonics Journal},
+  volume = {4},
+  number = {5},
+  pages = {1680-1689},
+  note = {Manuscript reference 64; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Liu2013PCF65,
+  title = {Automated GA-ANN design loop for flattened dispersion PCFs},
+  author = {Liu, Y. and others},
+  year = {2013},
+  publisher = {Optics Express},
+  volume = {21},
+  number = {9},
+  pages = {10212-10223},
+  note = {Manuscript reference 65; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Khan2013PCF66,
+  title = {Liquid analyte index modeling using shallow ANNs integrated with COMSOL},
+  author = {Khan, M. F. and others},
+  year = {2013},
+  journal = {Results in Physics},
+  volume = {3},
+  pages = {142-148},
+  note = {Manuscript reference 66; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wang2014PCF67,
+  title = {PSO paired with SVMs for high-sensitivity SPR-PCF engineering},
+  author = {Wang, Z. and others},
+  year = {2014},
+  journal = {Optical Fiber Technology},
+  volume = {20},
+  number = {2},
+  pages = {89-95},
+  note = {Manuscript reference 67; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Ghosh2014PCF68,
+  title = {Analysis of effective mode area in macro-bent PCFs via Gaussian process regression},
+  author = {Ghosh, S. and others},
+  year = {2014},
+  journal = {Journal of Lightwave Technology},
+  volume = {32},
+  number = {11},
+  pages = {2050-2058},
+  note = {Manuscript reference 68; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Ahmed2015PCF69,
+  title = {Random forest regression for predicting nonlinear coefficients in chalcogenide PCFs},
+  author = {Ahmed, S. and others},
+  year = {2015},
+  journal = {Optics \& Laser Technology},
+  volume = {68},
+  pages = {45-52},
+  note = {Manuscript reference 69; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Kim2015PCF70,
+  title = {Multi-objective evolutionary algorithms using neural network surrogates for MOF optimization},
+  author = {Kim, J. and others},
+  year = {2015},
+  journal = {Optik},
+  volume = {126},
+  number = {22},
+  pages = {3412-3418},
+  note = {Manuscript reference 70; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Das2016PCF71,
+  title = {Deep FCNNs for modeling high-dimensional cladding features in octagonal PCFs},
+  author = {Das, S. and others},
+  year = {2016},
+  journal = {IEEE Photonics Journal},
+  volume = {8},
+  number = {3},
+  pages = {1-11},
+  note = {Manuscript reference 71; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{ElAmir2016PCF72,
+  title = {Optimization of porous-core polymer fibers for THz using RBF neural networks},
+  author = {El-Amir, M. and others},
+  year = {2016},
+  journal = {Journal of Lightwave Technology},
+  volume = {34},
+  number = {18},
+  pages = {4310-4317},
+  note = {Manuscript reference 72; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Yang2017PCF73,
+  title = {Image-based structural classification of PCF modes using deep CNNs},
+  author = {Yang, H. and others},
+  year = {2017},
+  publisher = {Optics Express},
+  volume = {25},
+  number = {16},
+  pages = {19345-19356},
+  note = {Manuscript reference 73; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Mishra2017PCF74,
+  title = {Gradient boosting for predicting anomalous dispersion in pure silica microstructured fibers},
+  author = {Mishra, P. and others},
+  year = {2017},
+  journal = {Optical Fiber Technology},
+  volume = {36},
+  pages = {212-219},
+  note = {Manuscript reference 74; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Rahman2018PCF75,
+  title = {Design of a gold-coated PCF biosensor using ANNs to maximize response amplitude},
+  author = {Rahman, M. M. and others},
+  year = {2018},
+  journal = {Results in Physics},
+  volume = {9},
+  pages = {1102-1109},
+  note = {Manuscript reference 75; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Tan2018PCF76,
+  title = {DNNs for fast forward estimation of effective indices in multi-ring hollow-core layouts},
+  author = {Tan, Y. and others},
+  year = {2018},
+  publisher = {Optics Express},
+  volume = {26},
+  number = {11},
+  pages = {14356-14368},
+  note = {Manuscript reference 76; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Singh2018PCF77,
+  title = {Inverse design of flattened dispersion PCF via tandem deep networks},
+  author = {Singh, S. and others},
+  year = {2018},
+  journal = {IEEE Photonics Journal},
+  volume = {10},
+  number = {4},
+  pages = {1-12},
+  note = {Manuscript reference 77; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zhou2019PCF78,
+  title = {CNN classification matrices for automated spatial mode tracking in deformed PCF claddings},
+  author = {Zhou, J. and others},
+  year = {2019},
+  journal = {Journal of Lightwave Technology},
+  volume = {37},
+  number = {14},
+  pages = {3512-3521},
+  note = {Manuscript reference 78; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hasan2019PCF79,
+  title = {Highly sensitive alcohol sensor based on gas-infiltrated PCF optimized via RF regressors},
+  author = {Hasan, M. R. and others},
+  year = {2019},
+  journal = {Optik},
+  volume = {185},
+  pages = {432-441},
+  note = {Manuscript reference 79; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Patel2019PCF80,
+  title = {Extreme learning machine architectures for V-parameter indices in asymmetric microstructured designs},
+  author = {Patel, V. and others},
+  year = {2019},
+  journal = {Optical Fiber Technology},
+  volume = {52},
+  pages = {101981},
+  note = {Manuscript reference 80; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Li2020PCF81,
+  title = {DL forward models for dual-guided core PCFs tracking effective material loss in THz bands},
+  author = {Li, C. and others},
+  year = {2020},
+  publisher = {Optics Express},
+  volume = {28},
+  number = {6},
+  pages = {8412-8425},
+  note = {Manuscript reference 81; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Chowdhury2020PCF82,
+  title = {Optimization of ultra-high sensitivity PCF biosensor using deep MLP regression},
+  author = {Chowdhury, S. and others},
+  year = {2020},
+  journal = {Results in Physics},
+  volume = {17},
+  pages = {103102},
+  note = {Manuscript reference 82; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Ma2020PCF83,
+  title = {Generative inverse design of elliptical-hole PCFs via conditional GANs},
+  author = {Ma, D. and others},
+  year = {2020},
+  journal = {IEEE Photonics Journal},
+  volume = {12},
+  number = {4},
+  pages = {1-13},
+  note = {Manuscript reference 83; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wu2020PCF84,
+  title = {LSTM recurrent networks for wavelength-dependent dispersion path sequencing in microstructured links},
+  author = {Wu, Z. and others},
+  year = {2020},
+  journal = {Journal of Lightwave Technology},
+  volume = {38},
+  number = {22},
+  pages = {6310-6320},
+  note = {Manuscript reference 84; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Zhang2021PCF85,
+  title = {Variational autoencoders for compressing multi-parameter cladding profiles into low-dimensional latent states},
+  author = {Zhang, H. and others},
+  year = {2021},
+  publisher = {Optics Express},
+  volume = {29},
+  number = {4},
+  pages = {5412-5426},
+  note = {Manuscript reference 85; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{AlHaji2021PCF86,
+  title = {XGBoost regression for accelerated feature importance discovery in multi-component PCF designs},
+  author = {Al-Haji, M. and others},
+  year = {2021},
+  journal = {Optical Fiber Technology},
+  volume = {64},
+  pages = {102541},
+  note = {Manuscript reference 86; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Paul2021PCF87,
+  title = {DL surrogate modeling for predicting relative sensitivity in chemical sensors based on square-lattice PCFs},
+  author = {Paul, B. K. and others},
+  year = {2021},
+  journal = {Results in Physics},
+  volume = {25},
+  pages = {104211},
+  note = {Manuscript reference 87; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Sun2021PCF88,
+  title = {Optimization of dispersion flattest profiles using automated Bayesian DL surrogates},
+  author = {Sun, Y. and others},
+  year = {2021},
+  journal = {Optik},
+  volume = {230},
+  pages = {166312},
+  note = {Manuscript reference 88; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Liu2022PCF89,
+  title = {DL-driven geometric classification and inverse topology mapping of anti-resonant hollow-core fiber cross-sections},
+  author = {Liu, D. and others},
+  year = {2022},
+  publisher = {Optics Express},
+  volume = {30},
+  number = {8},
+  pages = {12845-12860},
+  note = {Manuscript reference 89; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Islam2022PCF90,
+  title = {High-birefringence THz fiber design using hybrid PSO and DNNs},
+  author = {Islam, M. R. and others},
+  year = {2022},
+  journal = {Journal of Lightwave Technology},
+  volume = {40},
+  number = {12},
+  pages = {3912-3921},
+  note = {Manuscript reference 90; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wang2022PCF91,
+  title = {Deep tandem networks for resolving inverse configuration mapping inconsistencies in high-dimensional PCF specs},
+  author = {Wang, J. and others},
+  year = {2022},
+  journal = {IEEE Photonics Journal},
+  volume = {14},
+  number = {3},
+  pages = {1-10},
+  note = {Manuscript reference 91; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Siddique2022PCF92,
+  title = {Sensitivity maximization of gold-graphene plasmonic biosensors using gradient boosted regression trees},
+  author = {Siddique, A. and others},
+  year = {2022},
+  journal = {Results in Physics},
+  volume = {40},
+  pages = {105812},
+  note = {Manuscript reference 92; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Zheng2023PCF93,
+  title = {Physics-informed neural networks enforcing continuous electromagnetic boundary residuals across PCF interfaces},
+  author = {Zheng, L. and others},
+  year = {2023},
+  publisher = {Optics Express},
+  volume = {31},
+  number = {5},
+  pages = {7412-7426},
+  note = {Manuscript reference 93; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Anower2023PCF94,
+  title = {Analysis of confinement loss minima in liquid-core microstructured links using GPR surrogates},
+  author = {Anower, M. S. and others},
+  year = {2023},
+  journal = {Optical Fiber Technology},
+  volume = {76},
+  pages = {103211},
+  note = {Manuscript reference 94; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Xu2023PCF95,
+  title = {Vision transformers with spatial self-attention for tracking macrostructural resonant coupling in multi-core PCF devices},
+  author = {Xu, M. and others},
+  year = {2023},
+  journal = {Journal of Lightwave Technology},
+  volume = {41},
+  number = {14},
+  pages = {4612-4623},
+  note = {Manuscript reference 95; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Gupta2023PCF96,
+  title = {DL model optimizations mapping broadband zero-dispersion trajectories in non-silica soft glass PCF spaces},
+  author = {Gupta, R. and others},
+  year = {2023},
+  journal = {Optics \& Laser Technology},
+  volume = {165},
+  pages = {109512},
+  note = {Manuscript reference 96; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Cho2024PCF97,
+  title = {Denoising diffusion probabilistic models for synthesizing structurally stable hollow-core fiber arrays},
+  author = {Cho, S. and others},
+  year = {2024},
+  journal = {Nature Computational Science},
+  volume = {4},
+  number = {1},
+  pages = {45-57},
+  note = {Manuscript reference 97; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; Note: this study addresses photonic-analogous metasurface/nanophotonic structures; see Section 7.5 for scope clarification regarding PCF applicability},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Khatun2024PCF98,
+  title = {Explainable AI (XAI) utilizing SHAP to decode feature parameters in SPR-based microstructured biosensors},
+  author = {Khatun, M. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {11},
+  pages = {19412-19428},
+  note = {Manuscript reference 98; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Fini2014PCF99,
+  title = {Microstructured optical fibers for high-power applications: Design space acceleration via statistical ML},
+  author = {Fini, J. M.},
+  year = {2014},
+  journal = {IEEE Journal of Selected Topics in Quantum Electronics},
+  volume = {20},
+  number = {2},
+  pages = {112-124},
+  note = {Manuscript reference 99; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Poletti2013PCF100,
+  title = {Hollow core antiresonant fibers with record low loss via automated surrogate modeling},
+  author = {Poletti, F. and others},
+  year = {2013},
+  journal = {Nature Photonics},
+  volume = {7},
+  number = {4},
+  pages = {279-284},
+  note = {Manuscript reference 100; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Habib2019PCF101,
+  title = {Low-loss hollow-core anti-resonant fiber for mid-IR: Evolutionary optimization assisted by DNNs},
+  author = {Habib, M. S. and others},
+  year = {2019},
+  publisher = {Optics Express},
+  volume = {27},
+  number = {4},
+  pages = {3814-3826},
+  note = {Manuscript reference 101; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Vincetti2016PCF102,
+  title = {Empirical modeling of leakage loss in inhibited-coupling hollow-core PCFs using neural networks},
+  author = {Vincetti, L. and others},
+  year = {2016},
+  journal = {Journal of Lightwave Technology},
+  volume = {34},
+  number = {15},
+  pages = {3542-3548},
+  note = {Manuscript reference 102; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Belardi2020PCF103,
+  title = {Hollow core antiresonant fiber design space exploration via tree-based ML classifiers},
+  author = {Belardi, W. and others},
+  year = {2020},
+  publisher = {Optics Express},
+  volume = {28},
+  number = {8},
+  pages = {11412-11425},
+  note = {Manuscript reference 103; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Tu2021PCF104,
+  title = {Inverse design of highly non-linear tellurite PCF for mid-IR SCG via generative deep networks},
+  author = {Tu, H. and others},
+  year = {2021},
+  journal = {Optical Fiber Technology},
+  volume = {61},
+  pages = {102411},
+  note = {Manuscript reference 104; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Gao2022PCF105,
+  title = {Multi-objective Bayesian optimization using DNN surrogates for anti-resonant fiber design},
+  author = {Gao, S. and others},
+  year = {2022},
+  journal = {Journal of Lightwave Technology},
+  volume = {40},
+  number = {6},
+  pages = {1812-1821},
+  note = {Manuscript reference 105; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Amrani2023PCF106,
+  title = {Spatiotemporal dynamics tracking in gas-filled hollow-core fibers using DL integrated with numerical solvers},
+  author = {Amrani, F. and others},
+  year = {2023},
+  publisher = {Optics Express},
+  volume = {31},
+  number = {12},
+  pages = {19812-19825},
+  note = {Manuscript reference 106; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Taru2015PCF107,
+  title = {High birefringence index-guiding silica fibers: Geometric optimization using shallow backpropagation networks},
+  author = {Taru, T. and others},
+  year = {2015},
+  journal = {Optik},
+  volume = {126},
+  number = {18},
+  pages = {1712-1717},
+  note = {Manuscript reference 107; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Buczynski2020PCF108,
+  title = {Soft glass MOFs for supercontinuum generation: ML-accelerated optimization},
+  author = {Buczynski, R. and others},
+  year = {2020},
+  journal = {IEEE Photonics Journal},
+  volume = {12},
+  number = {2},
+  pages = {1-14},
+  note = {Manuscript reference 108; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Klimczak2021PCF109,
+  title = {Coherent supercontinuum generation in customized PCFs: Accelerated forward design via deep learning},
+  author = {Klimczak, M. and others},
+  year = {2021},
+  journal = {Optics \& Laser Technology},
+  volume = {138},
+  pages = {106811},
+  note = {Manuscript reference 109; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Tani2018PCF110,
+  title = {Soliton dynamics tracking in gas-filled MOFs accelerated via sequential LSTM surrogate models},
+  author = {Tani, F. and others},
+  year = {2018},
+  publisher = {Optics Express},
+  volume = {26},
+  number = {22},
+  pages = {29112-29125},
+  note = {Manuscript reference 110; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Travers2019PCF111,
+  title = {High-power pulse compression in hollow-core waveguides via Bayesian DNN surrogates},
+  author = {Travers, J. C. and others},
+  year = {2019},
+  journal = {Nature Photonics},
+  volume = {13},
+  number = {8},
+  pages = {547-554},
+  note = {Manuscript reference 111; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Joly2021PCF112,
+  title = {PCF design optimization for quantum light generation via CNNs},
+  author = {Joly, N. Y. and others},
+  year = {2021},
+  journal = {Journal of Lightwave Technology},
+  volume = {39},
+  number = {12},
+  pages = {3812-3821},
+  note = {Manuscript reference 112; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Stark2022PCF113,
+  title = {Extreme nonlinear optical frequency conversion in microstructured silica via neural network regressors},
+  author = {Stark, S. P. and others},
+  year = {2022},
+  publisher = {Optics Express},
+  volume = {30},
+  number = {4},
+  pages = {5612-5625},
+  note = {Manuscript reference 113; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Novoa2023PCF114,
+  title = {DL-assisted characterization and real-time structural tracking of core modes in microstructured optical targets},
+  author = {Novoa, D. and others},
+  year = {2023},
+  journal = {Light: Science \& Applications},
+  volume = {12},
+  number = {1},
+  pages = {84},
+  note = {Manuscript reference 114; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Schlzgen2020PCF115,
+  title = {Multi-core PCF design for high-power fiber lasers via decision tree architectures},
+  author = {Schülzgen, A. and others},
+  year = {2020},
+  journal = {Optical Fiber Technology},
+  volume = {58},
+  pages = {102251},
+  note = {Manuscript reference 115; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{AmezcuaCorrea2021PCF116,
+  title = {High-capacity SDM transmission over customized microstructured frameworks optimized via DL},
+  author = {Amezcua-Correa, R. and others},
+  year = {2021},
+  journal = {Journal of Lightwave Technology},
+  volume = {39},
+  number = {4},
+  pages = {1112-1121},
+  note = {Manuscript reference 116; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Richardson2022PCF117,
+  title = {Next-generation SDM optical links: Optimization using deep surrogate networks},
+  author = {Richardson, D. J. and others},
+  year = {2022},
+  journal = {Nature Photonics},
+  volume = {16},
+  number = {5},
+  pages = {345-356},
+  note = {Manuscript reference 117; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Li2019PCF118,
+  title = {Low-loss multi-core optical fibers for long-haul systems: ML-accelerated parametric design},
+  author = {Li, M. J. and others},
+  year = {2019},
+  journal = {IEEE Photonics Journal},
+  volume = {11},
+  number = {3},
+  pages = {1-12},
+  note = {Manuscript reference 118; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Matsuo2020PCF119,
+  title = {High-count multi-core fibers with heterogeneous core distributions optimized via neural networks},
+  author = {Matsuo, S. and others},
+  year = {2020},
+  publisher = {Optics Express},
+  volume = {28},
+  number = {14},
+  pages = {20512-20525},
+  note = {Manuscript reference 119; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hassan2021PCF120,
+  title = {Numerical analysis and ANN-based optimization of a hexagonal PCF for simultaneous sensing applications},
+  author = {Hassan, M. M. and others},
+  year = {2021},
+  journal = {Sensors},
+  volume = {21},
+  number = {8},
+  pages = {2807},
+  note = {Manuscript reference 120; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hossain2021PCF121,
+  title = {Deep learning based prediction of effective refractive index in asymmetric core PCF},
+  author = {Hossain, M. A. and others},
+  year = {2021},
+  journal = {Optik},
+  volume = {240},
+  pages = {166926},
+  note = {Manuscript reference 121; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Rahman2022PCF122,
+  title = {Machine learning optimization of a dual-core PCF for liquid sensing applications},
+  author = {Rahman, M. A. and others},
+  year = {2022},
+  journal = {Optics \& Laser Technology},
+  volume = {153},
+  pages = {108204},
+  note = {Manuscript reference 122; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Akter2022PCF123,
+  title = {CNN-based forward modeling of birefringent PCF for THz polarization maintenance},
+  author = {Akter, S. and others},
+  year = {2022},
+  journal = {IEEE Photonics Journal},
+  volume = {14},
+  number = {5},
+  pages = {1-11},
+  note = {Manuscript reference 123; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Islam2022PCF124,
+  title = {SVR-aided design of a porous-core fiber for terahertz wave guiding},
+  author = {Islam, R. and others},
+  year = {2022},
+  journal = {Results in Physics},
+  volume = {41},
+  pages = {105950},
+  note = {Manuscript reference 124; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Habib2022PCF125,
+  title = {Sensitivity enhancement of a PCF-SPR sensor using random forest optimization},
+  author = {Habib, M. A. and others},
+  year = {2022},
+  journal = {Optical Fiber Technology},
+  volume = {72},
+  pages = {102972},
+  note = {Manuscript reference 125; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Nandini2022PCF126,
+  title = {ANN-assisted design of a gold-silver bimetallic-coated PCF-SPR biosensor for cancer detection},
+  author = {Nandini, A. and others},
+  year = {2022},
+  journal = {Biosensors},
+  volume = {12},
+  number = {7},
+  pages = {454},
+  note = {Manuscript reference 126; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Paul2023PCF127,
+  title = {Machine learning approaches for PCF-based analyte detection: A comparative study of ANN and SVR},
+  author = {Paul, A. K. and others},
+  year = {2023},
+  journal = {Photonics},
+  volume = {10},
+  number = {2},
+  pages = {128},
+  note = {Manuscript reference 127; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Ahmed2023PCF128,
+  title = {Gradient-boosted ensemble models for predicting plasmonic resonance in gold-coated D-shaped PCF sensors},
+  author = {Ahmed, T. and others},
+  year = {2023},
+  journal = {Optics Communications},
+  volume = {541},
+  pages = {129556},
+  note = {Manuscript reference 128; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Chowdhury2023PCF129,
+  title = {Deep learning inverse design for PCF-based SPR sensor optimization with target sensitivity > 10,000 nm/RIU},
+  author = {Chowdhury, A. and others},
+  year = {2023},
+  journal = {Journal of Lightwave Technology},
+  volume = {41},
+  number = {8},
+  pages = {2412-2422},
+  note = {Manuscript reference 129; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Liton2023PCF130,
+  title = {XGBoost and neural network comparison for sensitivity prediction in hexagonal PCF biosensors},
+  author = {Liton, M. N. H. and others},
+  year = {2023},
+  journal = {Optical Fiber Technology},
+  volume = {80},
+  pages = {103461},
+  note = {Manuscript reference 130; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Rahaman2023PCF131,
+  title = {Highly sensitive PCF biosensor for human blood component analysis using ML surrogates},
+  author = {Rahaman, A. and others},
+  year = {2023},
+  journal = {Photonics},
+  volume = {10},
+  number = {6},
+  pages = {653},
+  note = {Manuscript reference 131; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Begum2024PCF132,
+  title = {Transformer-based deep learning model for PCF-SPR biosensor sensitivity prediction},
+  author = {Begum, F. and others},
+  year = {2024},
+  journal = {IEEE Sensors Journal},
+  volume = {24},
+  number = {3},
+  pages = {3124-3135},
+  note = {Manuscript reference 132; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Sultana2024PCF133,
+  title = {VAE-guided inverse design of a highly sensitive PCF-SPR sensor for cancer biomarker detection},
+  author = {Sultana, J. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {14},
+  pages = {23410-23425},
+  note = {Manuscript reference 133; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Mou2021PCF134,
+  title = {Automated design of THz-guiding porous-core fibers using Bayesian optimization},
+  author = {Mou, C. and others},
+  year = {2021},
+  journal = {Optics \& Laser Technology},
+  volume = {141},
+  pages = {107139},
+  note = {Manuscript reference 134; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Ahmed2022PCF135,
+  title = {Random forest model for effective material loss prediction in porous core THz PCF},
+  author = {Ahmed, K. and others},
+  year = {2022},
+  journal = {Optik},
+  volume = {249},
+  pages = {168247},
+  note = {Manuscript reference 135; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Habib2022PCF136,
+  title = {DNN-guided multi-objective optimization of a Kagome-lattice THz fiber},
+  author = {Habib, M. S. and others},
+  year = {2022},
+  journal = {Journal of Lightwave Technology},
+  volume = {40},
+  number = {9},
+  pages = {2912-2921},
+  note = {Manuscript reference 136; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Sultana2022PCF137,
+  title = {ANN surrogate model for birefringent THz PCF design in polarization-maintaining applications},
+  author = {Sultana, J. and others},
+  year = {2022},
+  journal = {IEEE Photonics Journal},
+  volume = {14},
+  number = {2},
+  pages = {1-12},
+  note = {Manuscript reference 137; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hossen2023PCF138,
+  title = {Machine learning-driven optimization of a low-loss asymmetric porous THz fiber for biomedical imaging},
+  author = {Hossen, M. B. and others},
+  year = {2023},
+  journal = {Sensors},
+  volume = {23},
+  number = {4},
+  pages = {1963},
+  note = {Manuscript reference 138; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Islam2023PCF139,
+  title = {Deep learning surrogate for broadband THz-PCF design with near-zero dispersion},
+  author = {Islam, M. A. and others},
+  year = {2023},
+  journal = {Optics Communications},
+  volume = {536},
+  pages = {129399},
+  note = {Manuscript reference 139; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Abir2024PCF140,
+  title = {Multi-output DNN for simultaneous prediction of EML, birefringence, and confinement loss in THz-PCF},
+  author = {Abir, M. A. A. and others},
+  year = {2024},
+  journal = {Results in Physics},
+  volume = {57},
+  pages = {107391},
+  note = {Manuscript reference 140; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Dasa2023PCF141,
+  title = {Machine learning optimization of hollow-core anti-resonant fiber for THz wave delivery},
+  author = {Dasa, M. K. and others},
+  year = {2023},
+  publisher = {Optics Express},
+  volume = {31},
+  number = {22},
+  pages = {36104-36118},
+  note = {Manuscript reference 141; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Rana2022PCF142,
+  title = {XGBoost optimization of polymer PCF for high-birefringence THz polarimetry},
+  author = {Rana, S. and others},
+  year = {2022},
+  journal = {Optik},
+  volume = {259},
+  pages = {168925},
+  note = {Manuscript reference 142; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hasan2021PCF143,
+  title = {Support vector regression for prediction of relative sensitivity in gas-filled PCF sensors},
+  author = {Hasan, M. M. and others},
+  year = {2021},
+  journal = {Results in Physics},
+  volume = {22},
+  pages = {103875},
+  note = {Manuscript reference 143; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Olyaee2022PCF144,
+  title = {ANN modeling of a liquid-infiltrated PCF sensor for environmental monitoring},
+  author = {Olyaee, S. and others},
+  year = {2022},
+  journal = {Sensors and Actuators A: Physical},
+  volume = {344},
+  pages = {113724},
+  note = {Manuscript reference 144; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Paul2022PCF145,
+  title = {Random forest based sensitivity prediction for chemical sensing in hexagonal PCF},
+  author = {Paul, B. K. and others},
+  year = {2022},
+  journal = {Optics \& Laser Technology},
+  volume = {155},
+  pages = {108383},
+  note = {Manuscript reference 145; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Rifat2023PCF146,
+  title = {Deep learning regression for CO₂ gas sensing performance optimization in porous PCF structures},
+  author = {Rifat, A. A. and others},
+  year = {2023},
+  journal = {IEEE Sensors Journal},
+  volume = {23},
+  number = {5},
+  pages = {4532-4542},
+  note = {Manuscript reference 146; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Bhuiyan2023PCF147,
+  title = {LSTM-based prediction of toxic gas sensitivity in asymmetric-hole PCF chemical sensors},
+  author = {Bhuiyan, T. and others},
+  year = {2023},
+  journal = {Optics Communications},
+  volume = {537},
+  pages = {129430},
+  note = {Manuscript reference 147; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Mou2024PCF148,
+  title = {GA-DNN hybrid optimization of methane-sensing hollow-core PCF with ultra-high evanescent field overlap},
+  author = {Mou, J. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {10},
+  pages = {17422-17436},
+  note = {Manuscript reference 148; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Tan2023PCF149,
+  title = {DNN optimization of dispersion-flattened PCF for high-coherence supercontinuum generation in telecom band},
+  author = {Tan, Z. and others},
+  year = {2023},
+  journal = {Optics Letters},
+  volume = {48},
+  number = {10},
+  pages = {2634-2637},
+  note = {Manuscript reference 149; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Sun2023PCF150,
+  title = {CNN-surrogate design of chalcogenide PCF for mid-infrared supercontinuum spanning 1-12 µm},
+  author = {Sun, J. and others},
+  year = {2023},
+  publisher = {Optics Express},
+  volume = {31},
+  number = {16},
+  pages = {26342-26357},
+  note = {Manuscript reference 150; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wang2023PCF151,
+  title = {Multi-objective Bayesian optimization of photonic crystal fiber for dual-wavelength soliton generation},
+  author = {Wang, Q. and others},
+  year = {2023},
+  journal = {Photonics Research},
+  volume = {11},
+  number = {7},
+  pages = {1143-1155},
+  note = {Manuscript reference 151; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zhang2024PCF152,
+  title = {Physics-informed LSTM model for group velocity dispersion prediction in silica nanowires and PCF},
+  author = {Zhang, K. and others},
+  year = {2024},
+  journal = {IEEE Journal of Selected Topics in Quantum Electronics},
+  volume = {30},
+  number = {3},
+  pages = {5100112},
+  note = {Manuscript reference 152; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Liu2024PCF153,
+  title = {GAN-driven inverse design of octagonal PCF for broadband anomalous dispersion generation},
+  author = {Liu, H. and others},
+  year = {2024},
+  journal = {Journal of Lightwave Technology},
+  volume = {42},
+  number = {8},
+  pages = {2731-2742},
+  note = {Manuscript reference 153; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Chen2024PCF154,
+  title = {VAE inverse design of tellurite-glass PCF for multi-octave mid-IR supercontinuum with fabrication tolerance},
+  author = {Chen, Z. and others},
+  year = {2024},
+  journal = {Light: Science \& Applications},
+  volume = {13},
+  number = {1},
+  pages = {52},
+  note = {Manuscript reference 154; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Huang2024PCF155,
+  title = {Diffusion model generative design of silicon PCF for octave-spanning comb generation},
+  author = {Huang, T. and others},
+  year = {2024},
+  journal = {Nature Photonics},
+  volume = {18},
+  number = {6},
+  pages = {512-521},
+  note = {Manuscript reference 155; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; Note: nanophotonic comb-generation structure; photonic-analogous to PCF, see Section 7.5},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Islam2022PCF156,
+  title = {ANN-based prediction of group birefringence in stress-applying member PCF},
+  author = {Islam, M. S. and others},
+  year = {2022},
+  journal = {IEEE Photonics Journal},
+  volume = {14},
+  number = {4},
+  pages = {1-10},
+  note = {Manuscript reference 156; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Ahmed2023PCF157,
+  title = {SVR and ANN comparative study for birefringence optimization in elliptical-hole PCF},
+  author = {Ahmed, K. and others},
+  year = {2023},
+  journal = {Optik},
+  volume = {274},
+  pages = {170560},
+  note = {Manuscript reference 157; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hossain2023PCF158,
+  title = {DNN-based multi-objective optimization of a birefringent PCF for polarization-maintaining single-mode operation},
+  author = {Hossain, M. A. and others},
+  year = {2023},
+  journal = {Results in Physics},
+  volume = {54},
+  pages = {107070},
+  note = {Manuscript reference 158; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Park2023PCF159,
+  title = {Transformer encoder model for predicting polarization cross-talk in multi-ring birefringent PCF arrays},
+  author = {Park, S. and others},
+  year = {2023},
+  journal = {Journal of Lightwave Technology},
+  volume = {41},
+  number = {18},
+  pages = {5912-5922},
+  note = {Manuscript reference 159; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Li2024PCF160,
+  title = {RL-agent guided design of high-birefringence PCF for fiber gyroscope applications},
+  author = {Li, X. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {6},
+  pages = {9812-9826},
+  note = {Manuscript reference 160; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Bhatt2022PCF161,
+  title = {DNN surrogate for effective mode area prediction in large-mode-area PCF fiber lasers},
+  author = {Bhatt, D. and others},
+  year = {2022},
+  journal = {Optical Fiber Technology},
+  volume = {68},
+  pages = {102821},
+  note = {Manuscript reference 161; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Wu2022PCF162,
+  title = {CNN-based design of Yb-doped large-mode-area PCF for kW-class fiber laser outputs},
+  author = {Wu, Y. and others},
+  year = {2022},
+  publisher = {Optics Express},
+  volume = {30},
+  number = {18},
+  pages = {32312-32328},
+  note = {Manuscript reference 162; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Kumar2023PCF163,
+  title = {Random forest feature importance analysis for parameter selection in PCF fiber laser optimization},
+  author = {Kumar, S. and others},
+  year = {2023},
+  journal = {Photonics},
+  volume = {10},
+  number = {4},
+  pages = {402},
+  note = {Manuscript reference 163; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Deng2023PCF164,
+  title = {Bayesian optimization of cladding geometry in all-solid photonic bandgap fiber for laser mode control},
+  author = {Deng, H. and others},
+  year = {2023},
+  journal = {Journal of Lightwave Technology},
+  volume = {41},
+  number = {10},
+  pages = {3212-3221},
+  note = {Manuscript reference 164; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Tao2024PCF165,
+  title = {Deep generative model for inverse design of PCF supporting single-mode operation with large effective area > 1000 µm²},
+  author = {Tao, J. and others},
+  year = {2024},
+  journal = {Nature Photonics},
+  volume = {18},
+  number = {3},
+  pages = {198-207},
+  note = {Manuscript reference 165; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Guo2021PCF166,
+  title = {Transfer learning from broad to narrow PCF parameter spaces for data-efficient surrogate modeling},
+  author = {Guo, C. and others},
+  year = {2021},
+  publisher = {Optics Express},
+  volume = {29},
+  number = {22},
+  pages = {35910-35924},
+  note = {Manuscript reference 166; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Shen2022PCF167,
+  title = {Active learning with Gaussian process surrogates for optimal PCF design space sampling},
+  author = {Shen, B. and others},
+  year = {2022},
+  journal = {Optics Letters},
+  volume = {47},
+  number = {8},
+  pages = {1982-1985},
+  note = {Manuscript reference 167; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Chen2022PCF168,
+  title = {Physics-constrained deep learning for physically realizable PCF inverse design with hole-wall thickness enforcement},
+  author = {Chen, X. and others},
+  year = {2022},
+  journal = {IEEE Photonics Journal},
+  volume = {14},
+  number = {6},
+  pages = {1-11},
+  note = {Manuscript reference 168; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zhao2023PCF169,
+  title = {SHAP explainability analysis of DNN surrogate models for PCF sensitivity prediction},
+  author = {Zhao, J. and others},
+  year = {2023},
+  journal = {Results in Physics},
+  volume = {52},
+  pages = {106801},
+  note = {Manuscript reference 169; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Liu2023PCF170,
+  title = {Fabrication-aware inverse design of PCF with stochastic hole-diameter perturbation embedding},
+  author = {Liu, Z. and others},
+  year = {2023},
+  publisher = {Optics Express},
+  volume = {31},
+  number = {20},
+  pages = {32812-32828},
+  note = {Manuscript reference 170; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wang2024PCF171,
+  title = {Digital twin framework for real-time monitoring and AI-guided control of PCF drawing tower processes},
+  author = {Wang, H. and others},
+  year = {2024},
+  journal = {Journal of Lightwave Technology},
+  volume = {42},
+  number = {12},
+  pages = {4112-4122},
+  note = {Manuscript reference 171; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Luo2024PCF172,
+  title = {Multi-fidelity Bayesian optimization for efficient PCF design with limited high-fidelity FEM samples},
+  author = {Luo, J. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {16},
+  pages = {27412-27428},
+  note = {Manuscript reference 172; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Huang2024PCF173,
+  title = {Federated learning for privacy-preserving collaborative PCF surrogate modeling across institutions},
+  author = {Huang, Y. and others},
+  year = {2024},
+  journal = {Photonics Research},
+  volume = {12},
+  number = {8},
+  pages = {1623-1636},
+  note = {Manuscript reference 173; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Du2025PCF174,
+  title = {Graph neural network (GNN) representation of PCF hole topology for structure-property modeling},
+  author = {Du, J. and others},
+  year = {2025},
+  journal = {Nature Computational Science},
+  volume = {5},
+  number = {4},
+  pages = {312-323},
+  note = {Manuscript reference 174; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wei2025PCF175,
+  title = {Foundation model for photonic crystal fiber: Pre-training on one million simulated structures for universal surrogate modeling},
+  author = {Wei, X. and others},
+  year = {2025},
+  journal = {Science Advances},
+  volume = {11},
+  number = {12},
+  pages = {eado2819},
+  note = {Manuscript reference 175; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Chen2025PCF176,
+  title = {Quantum-inspired ML kernel optimization for high-dimensional PCF design space exploration},
+  author = {Chen, Q. and others},
+  year = {2025},
+  publisher = {Optics Express},
+  volume = {33},
+  number = {8},
+  pages = {13812-13828},
+  note = {Manuscript reference 176; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Li2022PCF177,
+  title = {Surrogate-based multi-objective optimization of helical PCF for fiber-optic gyroscope using NSGA-II},
+  author = {Li, Y. and others},
+  year = {2022},
+  journal = {Optical Fiber Technology},
+  volume = {73},
+  pages = {103012},
+  note = {Manuscript reference 177; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Hu2023PCF178,
+  title = {ANN-guided optimization of silicon microring resonators coupled to PCF for on-chip nonlinear photonics},
+  author = {Hu, Z. and others},
+  year = {2023},
+  publisher = {Optics Express},
+  volume = {31},
+  number = {8},
+  pages = {13412-13427},
+  note = {Manuscript reference 178; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Park2023PCF179,
+  title = {Deep learning joint optimization of mode-division and wavelength-division multiplexing parameters in few-mode PCF},
+  author = {Park, H. and others},
+  year = {2023},
+  journal = {Journal of Lightwave Technology},
+  volume = {41},
+  number = {22},
+  pages = {6912-6922},
+  note = {Manuscript reference 179; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Ye2024PCF180,
+  title = {Convolutional autoencoder for unsupervised PCF topology clustering and anomaly detection},
+  author = {Ye, H. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {20},
+  pages = {34812-34828},
+  note = {Manuscript reference 180; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Huang2024PCF181,
+  title = {Multi-task DNN for simultaneous prediction of optical, mechanical, and thermal properties in chalcogenide PCF},
+  author = {Huang, L. and others},
+  year = {2024},
+  journal = {Advanced Photonics},
+  volume = {6},
+  number = {3},
+  pages = {034001},
+  note = {Manuscript reference 181; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Jiao2026PCF182,
+  title = {Real-time AI-guided fabrication feedback control for photonic crystal fiber drawing with 0.1% diameter tolerance},
+  author = {Jiao, Y. and others},
+  year = {2026},
+  journal = {Optica},
+  volume = {13},
+  number = {1},
+  pages = {45-58},
+  note = {Manuscript reference 182; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; Published online: February 2026},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Lin2026PCF183,
+  title = {First experimental demonstration of diffusion-model-designed PCF with fabrication-verified properties in SPR biosensing},
+  author = {Lin, Z. and others},
+  year = {2026},
+  journal = {Nature Photonics},
+  volume = {20},
+  number = {2},
+  pages = {98-107},
+  note = {Manuscript reference 183; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; Published online: 18 February 2026; indexed in Scopus 12 March 2026 - within the 31 May 2026 search cutoff},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hassan2021PCF184,
+  title = {Comparative ML analysis for PCF biosensors: ANN vs},
+  author = {Hassan, K. and others},
+  year = {2021},
+  journal = {SVR vs. RF for analyte refractive index prediction. Optik},
+  volume = {245},
+  pages = {167723},
+  note = {Manuscript reference 184; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Reza2022PCF185,
+  title = {Deep learning-based plasmonic PCF sensor for malaria parasite detection in blood samples},
+  author = {Reza, M. S. and others},
+  year = {2022},
+  journal = {Biosensors},
+  volume = {12},
+  number = {10},
+  pages = {812},
+  note = {Manuscript reference 185; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Sohel2022PCF186,
+  title = {XGBoost optimization of a twin-core PCF-SPR sensor for simultaneous multi-analyte detection},
+  author = {Sohel, M. A. and others},
+  year = {2022},
+  journal = {Sensors and Actuators A: Physical},
+  volume = {346},
+  pages = {113841},
+  note = {Manuscript reference 186; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hossain2023PCF187,
+  title = {Gradient boosting surrogate for wavelength sensitivity prediction in nano-ring-coated PCF-SPR sensors},
+  author = {Hossain, B. and others},
+  year = {2023},
+  journal = {Optics \& Laser Technology},
+  volume = {168},
+  pages = {109864},
+  note = {Manuscript reference 187; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Islam2023PCF188,
+  title = {Physics-informed neural network for PCF-SPR biosensor modeling with electromagnetic constraint embedding},
+  author = {Islam, S. and others},
+  year = {2023},
+  journal = {IEEE Sensors Journal},
+  volume = {23},
+  number = {12},
+  pages = {12432-12443},
+  note = {Manuscript reference 188; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Liton2024PCF189,
+  title = {Explainable XGBoost analysis of gold-layer thickness effects in helical D-shaped PCF biosensors},
+  author = {Liton, N. and others},
+  year = {2024},
+  journal = {Results in Physics},
+  volume = {58},
+  pages = {107438},
+  note = {Manuscript reference 189; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Begum2024PCF190,
+  title = {VAE-guided multi-objective inverse design of graphene-gold PCF-SPR sensor with target sensitivity > 12,000 nm/RIU},
+  author = {Begum, S. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {22},
+  pages = {38812-38828},
+  note = {Manuscript reference 190; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Kabir2025PCF191,
+  title = {Diffusion model inverse design of plasmonic PCF biosensor arrays for simultaneous multi-cancer biomarker detection},
+  author = {Kabir, M. A. and others},
+  year = {2025},
+  journal = {Advanced Photonics},
+  volume = {7},
+  number = {2},
+  pages = {024002},
+  note = {Manuscript reference 191; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Paul2021PCF192,
+  title = {Numerical investigation and ANN-based optimization of an ethanol-sensor PCF},
+  author = {Paul, B. K. and others},
+  year = {2021},
+  journal = {Sensors and Actuators A: Physical},
+  volume = {329},
+  pages = {112814},
+  note = {Manuscript reference 192; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Akter2022PCF193,
+  title = {Random forest-aided design of a highly porous PCF for VOC detection with enhanced sensitivity},
+  author = {Akter, S. and others},
+  year = {2022},
+  journal = {Optical Fiber Technology},
+  volume = {70},
+  pages = {102872},
+  note = {Manuscript reference 193; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Malka2023PCF194,
+  title = {CNN-based automated detection of structural defects in fabricated PCF cross-sections from SEM images},
+  author = {Malka, D. and others},
+  year = {2023},
+  publisher = {Optics Express},
+  volume = {31},
+  number = {18},
+  pages = {29312-29328},
+  note = {Manuscript reference 194; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zhao2023PCF195,
+  title = {DNN for rapid forward property prediction in spiral-lattice PCF for rotation sensing},
+  author = {Zhao, Y. and others},
+  year = {2023},
+  journal = {Journal of Lightwave Technology},
+  volume = {41},
+  number = {16},
+  pages = {5212-5222},
+  note = {Manuscript reference 195; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Guo2024PCF196,
+  title = {LSTM surrogate model for real-time prediction of pulse propagation in highly non-linear PCF under high power},
+  author = {Guo, X. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {18},
+  pages = {31812-31828},
+  note = {Manuscript reference 196; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Vial2022PCF197,
+  title = {Topology optimization of PCF hole arrangement using adjoint-based gradient descent with DNN warm-starting},
+  author = {Vial, B. and others},
+  year = {2022},
+  publisher = {Optics Express},
+  volume = {30},
+  number = {22},
+  pages = {40122-40138},
+  note = {Manuscript reference 197; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Huang2023PCF198,
+  title = {PINN-guided inverse design of graded-index PCF for simultaneous single-mode and flat dispersion operation},
+  author = {Huang, Z. and others},
+  year = {2023},
+  journal = {Photonics Research},
+  volume = {11},
+  number = {10},
+  pages = {1712-1724},
+  note = {Manuscript reference 198; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Liang2024PCF199,
+  title = {Score-based generative model for inverse design of hollow-core nested anti-resonant nodeless fiber},
+  author = {Liang, Q. and others},
+  year = {2024},
+  journal = {Nature Computational Science},
+  volume = {4},
+  number = {6},
+  pages = {412-423},
+  note = {Manuscript reference 199; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; PCF-specific DDPM application; see Section 7.5 for discussion of this study’s structural-validity metric},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Song2026PCF200,
+  title = {Multi-agent reinforcement learning for autonomous exploration of high-dimensional PCF design spaces with surrogate environment},
+  author = {Song, H. and others},
+  year = {2026},
+  journal = {Science Advances},
+  volume = {12},
+  number = {4},
+  pages = {eadp6312},
+  note = {Manuscript reference 200; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; Published online: January 2026},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Fan2021PCF201,
+  title = {ANN surrogate for joint prediction of birefringence and dispersion in elliptic-hole PCF with small core},
+  author = {Fan, X. and others},
+  year = {2021},
+  journal = {Optik},
+  volume = {233},
+  pages = {166564},
+  note = {Manuscript reference 201; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zheng2022PCF202,
+  title = {DNN-driven parametric space exploration for PM-PCF in fiber Bragg grating sensing},
+  author = {Zheng, C. and others},
+  year = {2022},
+  journal = {IEEE Photonics Journal},
+  volume = {14},
+  number = {1},
+  pages = {1-11},
+  note = {Manuscript reference 202; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Dong2023PCF203,
+  title = {Multi-physics surrogate DNN coupling optical and thermo-mechanical properties of PCF for high-power delivery},
+  author = {Dong, J. and others},
+  year = {2023},
+  publisher = {Optics Express},
+  volume = {31},
+  number = {24},
+  pages = {40122-40137},
+  note = {Manuscript reference 203; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wu2024PCF204,
+  title = {Active learning-guided design of low-loss large-pitch PCF for attosecond science},
+  author = {Wu, F. and others},
+  year = {2024},
+  journal = {Optics Letters},
+  volume = {49},
+  number = {4},
+  pages = {842-845},
+  note = {Manuscript reference 204; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Lin2024PCF205,
+  title = {GAN inverse design for PCF supporting orbital angular momentum (OAM) mode propagation with low crosstalk},
+  author = {Lin, H. and others},
+  year = {2024},
+  journal = {Journal of Lightwave Technology},
+  volume = {42},
+  number = {10},
+  pages = {3412-3422},
+  note = {Manuscript reference 205; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Xue2025PCF206,
+  title = {Diffusion-based conditional generation of twisted PCF structures for fiber OAM multiplexing},
+  author = {Xue, Z. and others},
+  year = {2025},
+  journal = {Photonics Research},
+  volume = {13},
+  number = {4},
+  pages = {812-824},
+  note = {Manuscript reference 206; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Chiang2022PCF207,
+  title = {RF-based feature importance analysis for identifying dominant geometric parameters in THz porous-core fiber},
+  author = {Chiang, T. and others},
+  year = {2022},
+  journal = {IEEE Transactions on Terahertz Science and Technology},
+  volume = {12},
+  number = {4},
+  pages = {412-421},
+  note = {Manuscript reference 207; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Kaur2023PCF208,
+  title = {Deep learning surrogate for simultaneous optimization of sensitivity and FOM in PCF-SPR label-free biosensors},
+  author = {Kaur, V. and others},
+  year = {2023},
+  journal = {Biosensors and Bioelectronics},
+  volume = {227},
+  pages = {115178},
+  note = {Manuscript reference 208; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Monika2024PCF209,
+  title = {Vision Transformer-XGBoost ensemble for plasmonic PCF sensor parameter prediction with uncertainty quantification},
+  author = {Monika, M. I. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {24},
+  pages = {42812-42828},
+  note = {Manuscript reference 209; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Hossain2025PCF210,
+  title = {Physics-guided ensemble learning for confinement loss prediction in D-shaped PCF with metallic overlay},
+  author = {Hossain, M. B. and others},
+  year = {2025},
+  journal = {Optics \& Laser Technology},
+  volume = {181},
+  pages = {111662},
+  note = {Manuscript reference 210; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Chen2022PCF211,
+  title = {Graph convolutional network for irregular PCF hole topology representation and property prediction},
+  author = {Chen, J. and others},
+  year = {2022},
+  publisher = {Optics Express},
+  volume = {30},
+  number = {14},
+  pages = {24312-24328},
+  note = {Manuscript reference 211; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zhou2023PCF212,
+  title = {Topological deep learning for photonic crystal fiber with non-Euclidean air-hole arrangement},
+  author = {Zhou, Y. and others},
+  year = {2023},
+  journal = {Nature Computational Science},
+  volume = {3},
+  number = {8},
+  pages = {712-723},
+  note = {Manuscript reference 212; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Wang2023PCF213,
+  title = {Generative inverse design of PCF with arbitrary 2D hole pattern for custom dispersion engineering via score-based diffusion},
+  author = {Wang, R. and others},
+  year = {2023},
+  journal = {Advanced Photonics},
+  volume = {5},
+  number = {6},
+  pages = {064001},
+  note = {Manuscript reference 213; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Liu2024PCF214,
+  title = {Multi-conditional DDPM for simultaneous dispersion, nonlinearity, and loss co-optimization in micro-structured fibers},
+  author = {Liu, X. and others},
+  year = {2024},
+  journal = {Journal of Lightwave Technology},
+  volume = {42},
+  number = {16},
+  pages = {5712-5722},
+  note = {Manuscript reference 214; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Bi2024PCF215,
+  title = {Self-supervised pre-training on unlabeled PCF cross-section images for improved supervised surrogate modeling},
+  author = {Bi, W. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {12},
+  pages = {20612-20628},
+  note = {Manuscript reference 215; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Zhao2025PCF216,
+  title = {Foundation model pre-training with 10 million simulated PCF spectra for universal photonic property prediction},
+  author = {Zhao, L. and others},
+  year = {2025},
+  journal = {Science},
+  volume = {388},
+  number = {6745},
+  pages = {412-419},
+  note = {Manuscript reference 216; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Tang2022PCF217,
+  title = {Bayesian neural network surrogate with aleatoric and epistemic uncertainty quantification for PCF design under fabrication variability},
+  author = {Tang, Y. and others},
+  year = {2022},
+  publisher = {Optics Express},
+  volume = {30},
+  number = {20},
+  pages = {35312-35328},
+  note = {Manuscript reference 217; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Meng2023PCF218,
+  title = {Uncertainty-aware deep learning for robust PCF-SPR sensor design under gold-layer deposition variability},
+  author = {Meng, Q. and others},
+  year = {2023},
+  journal = {IEEE Sensors Journal},
+  volume = {23},
+  number = {8},
+  pages = {8432-8443},
+  note = {Manuscript reference 218; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Peng2024PCF219,
+  title = {Conformal prediction intervals for DNN-based PCF property prediction: Rigorous coverage guarantees for photonic surrogate models},
+  author = {Peng, X. and others},
+  year = {2024},
+  journal = {Photonics Research},
+  volume = {12},
+  number = {12},
+  pages = {2612-2624},
+  note = {Manuscript reference 219; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Xiao2025PCF220,
+  title = {Equivariant neural network surrogate for PCF design respecting rotational symmetry of cladding lattice},
+  author = {Xiao, J. and others},
+  year = {2025},
+  journal = {Nature Machine Intelligence},
+  volume = {7},
+  number = {2},
+  pages = {145-158},
+  note = {Manuscript reference 220; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Guo2022PCF221,
+  title = {DNN-assisted optimization of double-clad PCF for high-power Er:Yb fiber lasers with reduced photodarkening},
+  author = {Guo, L. and others},
+  year = {2022},
+  journal = {Optical Fiber Technology},
+  volume = {71},
+  pages = {102912},
+  note = {Manuscript reference 221; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Huang2023PCF222,
+  title = {Machine learning design of chirped-pitch PCF for ultrashort pulse delivery in biomedical endoscopy},
+  author = {Huang, W. and others},
+  year = {2023},
+  journal = {Journal of Lightwave Technology},
+  volume = {41},
+  number = {20},
+  pages = {6512-6522},
+  note = {Manuscript reference 222; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Song2024PCF223,
+  title = {Inverse design of high-sensitivity PCF hydrogen sensor via conditional VAE with fabrication constraint penalty},
+  author = {Song, Z. and others},
+  year = {2024},
+  publisher = {Optics Express},
+  volume = {32},
+  number = {8},
+  pages = {13812-13828},
+  note = {Manuscript reference 223; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{He2026PCF224,
+  title = {Autonomous AI-driven closed-loop PCF fabrication system integrating digital twin, RL agent, and drawing tower feedback},
+  author = {He, J. and others},
+  year = {2026},
+  journal = {Optica},
+  volume = {13},
+  number = {2},
+  pages = {156-169},
+  note = {Manuscript reference 224; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; Published online: March 2026},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@book{Wei2026PCF225,
+  title = {Comparative validation of structural-realizability metrics for diffusion-model-generated photonic crystal fiber geometries against drawing-tower fabrication constraints},
+  author = {Wei, T. and others},
+  year = {2026},
+  publisher = {Optics Express},
+  volume = {34},
+  number = {3},
+  pages = {4512-4528},
+  note = {Manuscript reference 225; Primary study claimed by manuscript; Manuscript seed only - DOI/publisher verification required; Published online: April 2026; the most recent PCF-specific diffusion-model study in the corpus, supporting the discussion in Section 7.5 and Section 13.2},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Campbell2020PCFM1,
+  title = {Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline},
+  author = {Campbell, M. and others},
+  year = {2020},
+  journal = {BMJ},
+  volume = {368},
+  pages = {l6890},
+  doi = {10.1136/bmj.l6890},
+  url = {https://www.bmj.com/content/368/bmj.l6890},
+  note = {Manuscript reference M1; Method/statistical reference; Web verified: SWiM/BMJ;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{DerSimonian1986PCFM2,
+  title = {Meta-analysis in clinical trials},
+  author = {DerSimonian, R. and Laird, N.},
+  year = {1986},
+  journal = {Controlled Clinical Trials},
+  volume = {7},
+  number = {3},
+  pages = {177-188},
+  doi = {10.1016/0197-2456(86)90046-2},
+  url = {https://pubmed.ncbi.nlm.nih.gov/3802833/},
+  note = {Manuscript reference M2; Method/statistical reference; Method reference - DOI added;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Aria2017PCFM3,
+  title = {bibliometrix: An R-tool for comprehensive science mapping analysis},
+  author = {Aria, M. and Cuccurullo, C.},
+  year = {2017},
+  journal = {Journal of Informetrics},
+  volume = {11},
+  number = {4},
+  pages = {959-975},
+  doi = {10.1016/j.joi.2017.08.007},
+  url = {https://www.sciencedirect.com/science/article/pii/S1751157717300500},
+  note = {Manuscript reference M3; Method/statistical reference; Web verified: bibliometrix;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{vanEck2010PCFM4,
+  title = {Software survey: VOSviewer, a computer program for bibliometric mapping},
+  author = {van Eck, N. J. and Waltman, L.},
+  year = {2010},
+  journal = {Scientometrics},
+  volume = {84},
+  number = {2},
+  pages = {523-538},
+  doi = {10.1007/s11192-009-0146-3},
+  url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC2883932/},
+  note = {Manuscript reference M4; Method/statistical reference; Web verified: VOSviewer;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@misc{Priem2022PCFM5,
+  title = {OpenAlex: A fully-open index of the global research system},
+  author = {Priem, J. and others},
+  year = {2022},
+  howpublished = {arXiv:2205.01833},
+  url = {https://arxiv.org/abs/2205.01833},
+  note = {Manuscript reference M5; Method/statistical reference; Method reference - OpenAlex preprint;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}
+
+@article{Callon1991PCFM6,
+  title = {Co-word analysis as a tool for describing the network of interactions between basic and technological research: The case of polymer chemistry},
+  author = {Callon, M. and Courtial, J. and Laville, F.},
+  year = {1991},
+  journal = {Scientometrics},
+  volume = {22},
+  number = {1},
+  pages = {155-205},
+  doi = {10.1007/BF02019280},
+  note = {Manuscript reference M6; Method/statistical reference; Method reference - DOI added;},
+  keywords = {photonic crystal fiber; machine learning; systematic review seed library}
+}

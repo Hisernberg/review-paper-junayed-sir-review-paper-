@@ -1,0 +1,40 @@
+Item,PRISMA_2020_Item,Requirement,Manuscript_Location,Readiness_Status,Action_Needed
+1,Title,Identify the report as a systematic review.,Title page,Partial - remove target IF/Q1 wording,Complete evidence/proof before final submission
+2,Abstract,"Structured summary with objectives, eligibility, sources, methods, results, limitations, registration.",Abstract,Partial,Complete evidence/proof before final submission
+3,Rationale,Describe rationale in context of existing knowledge.,Introduction 1.1-1.4,Present,Final check
+4,Objectives,Explicit statement of questions/objectives.,Section 1.5,Present,Final check
+5,Eligibility criteria,Specify inclusion/exclusion criteria.,Section 2.4,Present,Final check
+6,Information sources,"Specify databases, registers, websites, organizations, last search date.",Section 2.2,Present - needs export proof,Final check
+7,Search strategy,Present full search strategies for all sources.,Supplement S3 / Search package,Ready in package; must execute,Final check
+8,Selection process,Specify screening process and reviewers.,Section 2.5,Partial - Rayyan export needed,Complete evidence/proof before final submission
+9,Data collection process,Specify data extraction process and reviewers.,Supplement S1,Partial - full matrix needed,Complete evidence/proof before final submission
+10a,Data items: outcomes,List and define all outcomes.,Sections 9-11,Present,Final check
+10b,Data items: other variables,List assumptions/simplifications.,S1 extraction matrix,Partial,Complete evidence/proof before final submission
+11,Study risk of bias assessment,Specify methods used.,Section 2.6,Present - needs per-study scores,Final check
+12,Effect measures,Specify effect measures.,Section 2.8,Partial - R2 pooling needs statistical caution,Complete evidence/proof before final submission
+13a,Synthesis eligibility,Processes for deciding study eligibility for each synthesis.,SWiM plan,Ready template,Final check
+13b,Data preparation,Methods to prepare data for synthesis.,SWiM plan/R script,Ready template,Final check
+13c,Tabulation/visual display,Methods for tabulating/displaying results.,Tables/Figures/R script,Ready template,Final check
+13d,Synthesis methods,Describe synthesis methods.,Section 2.8,Partial,Complete evidence/proof before final submission
+13e,Heterogeneity exploration,Methods to explore heterogeneity.,Section 2.8 / SWiM,Partial,Complete evidence/proof before final submission
+13f,Sensitivity analyses,Methods for sensitivity analyses.,SWiM/R script,Ready template,Final check
+14,Reporting bias assessment,Methods for reporting bias.,Limitations / SWiM,Needs completion,Complete evidence/proof before final submission
+15,Certainty assessment,Methods to assess certainty/confidence.,Quality assessment,Needs completion,Complete evidence/proof before final submission
+16a,Study selection results,Numbers screened/included and exclusions.,PRISMA flow,Present - proof needed,Final check
+16b,Excluded studies,Cite excluded studies and reasons.,Excluded log,Template ready,Final check
+17,Study characteristics,Cite each included study and characteristics.,S1 matrix,Template ready,Final check
+18,Risk of bias in studies,Present bias assessments.,Quality sheet,Template ready,Final check
+19,Results of individual studies,"For all outcomes, present results for each study.",SWiM matrix,Needs extraction,Complete evidence/proof before final submission
+20,Results of syntheses,Present synthesis results.,Tables 10-11,Partial,Complete evidence/proof before final submission
+21,Reporting biases,Present reporting bias assessments.,Gap/limitations,Needs completion,Complete evidence/proof before final submission
+22,Certainty of evidence,Present certainty/confidence.,Quality/GRADE-like summary,Needs completion,Complete evidence/proof before final submission
+23a,Discussion interpretation,Interpret results in context.,Sections 12-15,Present,Final check
+23b,Limitations of evidence,Discuss limitations of evidence.,Section 2.7/13,Present,Final check
+23c,Limitations of review processes,Discuss limitations of review process.,Section 2.7,Present,Final check
+23d,Implications,Implications for practice/research.,Roadmap,Present,Final check
+24a,Registration/protocol,Provide registration info.,Section 2.1,Needs OSF DOI or remove claim,Complete evidence/proof before final submission
+24b,Protocol access,Indicate where protocol can be accessed.,OSF/Zenodo,Needs live link,Complete evidence/proof before final submission
+24c,Protocol amendments,Describe amendments.,Protocol appendix,Needs completion,Complete evidence/proof before final submission
+25,Support,Funding/support.,Declarations,Missing,Complete evidence/proof before final submission
+26,Competing interests,Declare conflicts.,Declarations,Missing,Complete evidence/proof before final submission
+27,Availability of data/code/materials,Report availability of data/code.,Zenodo/package,Partial - package generated; DOI needed,Complete evidence/proof before final submission

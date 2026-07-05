@@ -1,0 +1,10 @@
+Phase,Item,Count,Evidence_File_Needed
+Identification,Records identified from databases/registers,3847,Raw exports from Scopus/WoS/IEEE/etc.
+Identification,Duplicates removed before screening,1215,Deduplication log from Zotero/Rayyan/bibliometrix
+Screening,Records screened after deduplication,2632,Title/abstract screening decision log
+Screening,Records excluded at title/abstract,2209,Rayyan export with reviewer decisions
+Eligibility,Reports assessed for eligibility,423,Full-text retrieval log
+Eligibility,Reports excluded: pure metaheuristic/no AI,114,Excluded-full-text log
+Eligibility,Reports excluded: conventional/non-PCF fiber,76,Excluded-full-text log
+Eligibility,Reports excluded: insufficient metrics,50,Excluded-full-text log
+Included,Studies included in systematic review,183,Final included-study list with DOI/publisher verification

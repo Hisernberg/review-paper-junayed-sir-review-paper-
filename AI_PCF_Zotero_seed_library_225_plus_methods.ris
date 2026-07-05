@@ -1,0 +1,9 @@
+Place database-native exports here before running 08_r_scripts/AI_PCF_bibliometrix_SWIM_pipeline.R.
+Recommended files:
+- scopus_ai_pcf_YYYYMMDD.csv and/or .bib
+- wos_ai_pcf_YYYYMMDD.txt with cited references
+- ieee_ai_pcf_YYYYMMDD.ris/.bib
+- optica_spie_ai_pcf_YYYYMMDD.bib
+- sciencedirect_ai_pcf_YYYYMMDD.ris
+- springer_wiley_ai_pcf_YYYYMMDD.ris
+Do not manually add unverified citations to the final corpus.

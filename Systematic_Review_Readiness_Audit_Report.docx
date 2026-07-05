@@ -1,0 +1,23 @@
+# Zotero import instructions for the AI-PCF systematic review library
+
+This folder contains two import-ready reference-library files:
+
+- `AI_PCF_Zotero_seed_library_225_plus_methods.bib`
+- `AI_PCF_Zotero_seed_library_225_plus_methods.ris`
+
+## Import into Zotero
+
+1. Open Zotero.
+2. Choose **File -> Import...**.
+3. Select **A file**.
+4. Choose either the `.bib` or `.ris` file in this folder.
+5. After import, create collections:
+   - `00_Background_Methods_Foundational`
+   - `01_Primary_AI_PCF_Claimed_N183`
+   - `02_Methodological_PRISMA_SWIM_Bibliometrix`
+   - `99_Needs_DOI_Verification`
+6. Use Zotero's duplicate checker after importing database exports.
+
+## Important audit rule
+
+The seed library is parsed from the manuscript reference list. It is **not a substitute for database-native export proof** from Scopus, Web of Science, IEEE Xplore, Optica, etc. Any item marked as `Manuscript seed only` must be DOI/publisher verified before final submission.

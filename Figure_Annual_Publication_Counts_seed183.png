@@ -1,0 +1,10 @@
+SWiM_Item,Item_Name,Package_Implementation,Status
+1,Grouping studies for synthesis,"Define groups by taxonomy branch, application domain, target property, and architecture.",Ready
+2,Standardized metric/transformation,Use R2/RMSE/MAE descriptively; optional Fisher-z transform only if sample sizes and SEs are extractable.,Needs study-level data
+3,Synthesis method,Use narrative synthesis plus stratified descriptive statistics; avoid overclaiming pooled meta-analysis where heterogeneity is high.,Ready
+4,Criteria to prioritize results,"Prioritize external validation/fabrication validation, larger datasets, independent test sets, and open data.",Ready
+5,Heterogeneity investigation,"Stratify by geometry, domain, simulation tool, dataset size, target property, and validation type.",Ready
+6,Certainty of evidence,Use QS rubric and sensitivity analysis excluding low-QS/scope-uncertain records.,Template ready
+7,Data presentation,"Use summary tables, forest-style plots for comparable groups, and harvest plots for non-comparable metrics.",Ready
+8,Reporting results,"Report counts, ranges, medians/IQR, and explicitly label best-reported values.",Ready
+9,Limitations,"State publication bias, simulation-only validation, missing open data, and metric heterogeneity.",Ready

@@ -1,0 +1,8 @@
+Run_ID,Date_Run,Database,Search_String_ID,Raw_Hits,Records_Exported,Export_Filename,Export_Format,Search_Operator,Date_Range,Filters_Applied,Notes,Proof_Status
+S01,,Scopus,Q01,,,,"CSV + BibTeX, all citation information, abstracts, references",,2010-01-01 to 2026-05-31 for manuscript; update to 2026-07-04 only if revising cutoff,English; article/proceedings; 2010-cutoff; full text if available,Fill after database execution,Awaiting database export
+S02,,Web of Science Core Collection,Q02,,,,Plain text full record and cited references,,2010-01-01 to 2026-05-31,English; article/proceedings; 2010-cutoff; full text if available,Fill after database execution,Awaiting database export
+S03,,IEEE Xplore,Q03,,,,BibTeX/RIS + CSV,,2010-01-01 to 2026-05-31,English; article/proceedings; 2010-cutoff; full text if available,Fill after database execution,Awaiting database export
+S04,,ScienceDirect,Q04,,,,RIS/BibTeX; export citations and abstracts,,2010-01-01 to 2026-05-31,English; article/proceedings; 2010-cutoff; full text if available,Fill after database execution,Awaiting database export
+S05,,Optica Publishing Group / SPIE,Q05,,,,BibTeX + citation metadata,,2010-01-01 to 2026-05-31,English; article/proceedings; 2010-cutoff; full text if available,Fill after database execution,Awaiting database export
+S06,,SpringerLink / Wiley,Q06,,,,RIS/BibTeX,,2010-01-01 to 2026-05-31,English; article/proceedings; 2010-cutoff; full text if available,Fill after database execution,Awaiting database export
+S07,,Google Scholar / OpenAlex surveillance,Q07,,,,Publish or Perish CSV / OpenAlex CSV,,2010-01-01 to current; flag post-cutoff separately,English; article/proceedings; 2010-cutoff; full text if available,Fill after database execution,Awaiting database export
