@@ -1,0 +1,14 @@
+# Put real database exports here
+
+Use one folder per source and keep the original export files unchanged.
+
+Required:
+- Scopus: CSV and BibTeX, all fields selected.
+- Web of Science Core Collection: Plain Text or BibTeX, Full Record and Cited References.
+- IEEE Xplore: RIS and BibTeX.
+- Optica Publishing Group and SPIE: RIS/BibTeX.
+- ScienceDirect, SpringerLink, Wiley: RIS/BibTeX where available.
+- Rayyan: CSV exports for title/abstract screening, full-text screening, decisions, labels, exclusion reasons, and data extraction.
+- Proof screenshots: query pasted, filters, result count, export date/time.
+
+Never overwrite raw exports. Store cleaned/merged files separately.

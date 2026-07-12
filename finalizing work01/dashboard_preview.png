@@ -1,0 +1,11 @@
+Code,Criterion,Decision
+IC1,"Primary empirical or computational study explicitly implementing ML, DL, or statistical AI for PCF/MOF/hollow-core/anti-resonant fiber analysis, optimization, or inverse design",Include
+IC2,Peer-reviewed journal article or indexed conference proceeding,Include
+IC3,"Reports usable quantitative details: input geometry, target optical property, dataset size, model type, metrics, or simulation pipeline",Include
+IC4,Publication/indexing date between 2010-01-01 and 2026-05-31 inclusive,Include
+IC5,English full text available,Include
+EC1,"Review article, editorial, thesis, book chapter, patent, abstract-only item",Exclude
+EC2,Conventional step-index/multicore fiber without PCF/microstructured/hollow-core/anti-resonant architecture,Exclude
+EC3,Pure metaheuristic optimization without AI/ML/DL surrogate or learning component,Exclude
+EC4,"No algorithmic disclosure, no quantitative metric, or insufficient validation details",Exclude
+EC5,"Duplicate, superseded preprint, retracted paper, or indexed after cutoff",Exclude

@@ -1,0 +1,78 @@
+# AI-PCF systematic review bibliometrix + PRISMA support pipeline
+# Put raw exports in 03_search_exports_PLACE_REAL_FILES_HERE before running.
+# Required packages: bibliometrix, dplyr, stringr, readr, tidyr, revtools, openxlsx
+
+library(bibliometrix)
+library(dplyr)
+library(stringr)
+library(readr)
+library(tidyr)
+
+root <- "."
+export_dir <- file.path(root, "03_search_exports_PLACE_REAL_FILES_HERE")
+
+# 1) Convert Scopus and WoS exports for bibliometrix
+scopus_files <- list.files(export_dir, pattern = "scopus.*\\.(csv|bib)$", recursive = TRUE, full.names = TRUE, ignore.case = TRUE)
+wos_files <- list.files(export_dir, pattern = "wos|web.?of.?science", recursive = TRUE, full.names = TRUE, ignore.case = TRUE)
+
+convert_one <- function(path) {
+  ext <- tools::file_ext(path)
+  low <- tolower(path)
+  if (grepl("scopus", low) && ext == "csv") return(convert2df(path, dbsource = "scopus", format = "csv"))
+  if (grepl("scopus", low) && ext == "bib") return(convert2df(path, dbsource = "scopus", format = "bibtex"))
+  if (grepl("wos|web.?of.?science", low) && ext %in% c("txt","ciw")) return(convert2df(path, dbsource = "wos", format = "plaintext"))
+  if (grepl("wos|web.?of.?science", low) && ext == "bib") return(convert2df(path, dbsource = "wos", format = "bibtex"))
+  return(NULL)
+}
+
+files <- list.files(export_dir, recursive = TRUE, full.names = TRUE)
+frames <- lapply(files, function(f) tryCatch(convert_one(f), error=function(e) NULL))
+frames <- frames[!sapply(frames, is.null)]
+
+if (length(frames) == 0) {
+  stop("No convertible Scopus/WoS files found. Add raw exports first.")
+}
+
+M <- bind_rows(frames)
+M <- M %>%
+  mutate(TI_norm = str_squish(str_to_lower(str_replace_all(TI, "[^a-zA-Z0-9 ]", " "))),
+         DOI_norm = str_to_lower(str_trim(DI)))
+
+# 2) Deduplicate
+M <- M %>% mutate(raw_record_id = row_number())
+doi_dups <- M %>% filter(!is.na(DOI_norm), DOI_norm != "") %>% group_by(DOI_norm) %>% mutate(doi_dup_n = n()) %>% ungroup()
+title_dups <- M %>% group_by(TI_norm, PY) %>% mutate(title_year_dup_n = n()) %>% ungroup()
+
+dedup <- M %>%
+  group_by(coalesce(na_if(DOI_norm, ""), paste0(TI_norm, "_", PY))) %>%
+  mutate(duplicate_group_id = cur_group_id(),
+         keep_record = row_number() == 1,
+         duplicate_decision = if_else(keep_record, "KEEP", "DUPLICATE")) %>%
+  ungroup()
+
+write_csv(dedup, file.path(root, "09_screening_dedup_logs", "deduplication_log_from_exports.csv"))
+unique_records <- dedup %>% filter(keep_record)
+write_csv(unique_records, file.path(root, "09_screening_dedup_logs", "unique_records_for_rayyan_import.csv"))
+
+# 3) Bibliometric outputs
+results <- biblioAnalysis(unique_records, sep = ";")
+sink(file.path(root, "07_bibliometrix_vosviewer", "bibliometrix_summary.txt"))
+print(summary(object = results, k = 20, pause = FALSE))
+sink()
+
+# Keyword co-occurrence and bibliographic coupling
+NetMatrix_kw <- biblioNetwork(unique_records, analysis = "co-occurrences", network = "keywords", sep = ";")
+write.csv(NetMatrix_kw, file.path(root, "07_bibliometrix_vosviewer", "keyword_cooccurrence_matrix.csv"))
+
+NetMatrix_couple <- biblioNetwork(unique_records, analysis = "coupling", network = "references", sep = ";")
+write.csv(NetMatrix_couple, file.path(root, "07_bibliometrix_vosviewer", "bibliographic_coupling_matrix.csv"))
+
+NetMatrix_cocit <- biblioNetwork(unique_records, analysis = "co-citation", network = "references", sep = ";")
+write.csv(NetMatrix_cocit, file.path(root, "07_bibliometrix_vosviewer", "co_citation_matrix.csv"))
+
+# 4) PRISMA counts (fill after Rayyan import/export)
+prisma <- tibble(
+  item = c("records_identified", "duplicates_removed", "records_screened", "title_abstract_excluded", "full_text_assessed", "full_text_excluded", "included"),
+  count = c(nrow(M), nrow(M) - nrow(unique_records), nrow(unique_records), NA, NA, NA, NA)
+)
+write_csv(prisma, file.path(root, "04_prisma", "prisma_counts_from_exports_partial.csv"))

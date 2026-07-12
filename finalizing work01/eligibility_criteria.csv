@@ -1,0 +1,178 @@
+@article{Pedro2023AOPANN2023,
+  title = {Artificial neural networks for photonic applications—from algorithms to implementation: tutorial},
+  author = {Pedro Freire and Egor Manuylovich and Jaroslaw E. Prilepsky and Sergei K. Turitsyn},
+  year = {2023},
+  journal = {Advances in Optics and Photonics},
+  volume = {15},
+  pages = {739-834},
+  doi = {10.1364/AOP.484119},
+  url = {https://opg.optica.org/aop/abstract.cfm?uri=aop-15-3-739},
+  note = {Invited/tutorial review; strong model for review-plus-tutorial style; broad ML photonics coverage; Verification status: Verified}
+}
+
+@article{Deniz2022AOPDL2022,
+  title = {At the intersection of optics and deep learning: statistical inference, computing, and inverse design},
+  author = {Deniz Mengu and Md Sadman Sakib Rahman and Yi Luo and Jiajun Li and Aydogan Ozcan},
+  year = {2022},
+  journal = {Advances in Optics and Photonics},
+  volume = {14},
+  pages = {209-290},
+  doi = {10.1364/AOP.450345},
+  url = {https://opg.optica.org/aop/fulltext.cfm?uri=aop-14-2-209},
+  note = {Top-tier AOP example for optics + deep learning + inverse design framing; Verification status: Verified}
+}
+
+@article{Wei2021NPHOTDL2021,
+  title = {Deep learning for the design of photonic structures},
+  author = {Wei Ma and Zhaocheng Liu and Zakarya A. Kudyshev and Alexandra Boltasseva and Wenshan Cai and Yongmin Liu},
+  year = {2021},
+  journal = {Nature Photonics},
+  volume = {15},
+  pages = {77-90},
+  doi = {10.1038/s41566-020-0685-y},
+  url = {https://www.nature.com/articles/s41566-020-0685-y},
+  note = {High-impact review model for DL photonic-structure design; compact but authoritative; Verification status: Verified}
+}
+
+@article{Goery2021NPHOTULTRAFAST2021,
+  title = {Machine learning and applications in ultrafast photonics},
+  author = {Goëry Genty and Lauri Salmela and John M. Dudley and Daniel Brunner and Alexey Kokhanovskiy and Sergei Kobtsev and Sergei K. Turitsyn},
+  year = {2021},
+  journal = {Nature Photonics},
+  volume = {15},
+  pages = {91-101},
+  doi = {10.1038/s41566-020-00716-4},
+  url = {https://www.nature.com/articles/s41566-020-00716-4},
+  note = {Review model for ML in a subfield of photonics, with challenges/future research; Verification status: Verified}
+}
+
+@article{Jiang2021NREVMAT2021,
+  title = {Deep neural networks for the evaluation and design of photonic devices},
+  author = {Jiang and Chen and Fan},
+  year = {2021},
+  journal = {Nature Reviews Materials},
+  volume = {6},
+  pages = {679-700},
+  doi = {10.1038/s41578-020-00260-1},
+  url = {https://www.nature.com/articles/s41578-020-00260-1},
+  note = {Benchmark review model for photonic inverse design and neural surrogates; Verification status: Verified from manuscript seed; final check in Zotero}
+}
+
+@article{Dora2017AOPPCFSPR2017,
+  title = {Recent advances in plasmonic photonic crystal fibers: design, fabrication and applications},
+  author = {Dora Juan Juan Hu and Ho Pui Ho},
+  year = {2017},
+  journal = {Advances in Optics and Photonics},
+  volume = {9},
+  pages = {257-314},
+  doi = {10.1364/AOP.9.000257},
+  url = {https://opg.optica.org/aop/abstract.cfm?uri=aop-9-2-257},
+  note = {Directly relevant top-tier PCF review model; includes fabrication/application tables; Verification status: Verified}
+}
+
+@article{Pengfei2018AOPHCG2018,
+  title = {Recent advances in high-contrast metastructures, metasurfaces, and photonic crystals},
+  author = {Pengfei Qiao and Weijian Yang and Connie J. Chang-Hasnain},
+  year = {2018},
+  journal = {Advances in Optics and Photonics},
+  volume = {10},
+  pages = {180-245},
+  doi = {10.1364/AOP.10.000180},
+  url = {https://opg.optica.org/aop/abstract.cfm?uri=aop-10-1-180},
+  note = {AOP model for photonic crystals/metasurfaces; useful for taxonomy and figures; Verification status: Verified}
+}
+
+@article{Susumu2023AOPPCSEL2023,
+  title = {High-power and high-beam-quality photonic-crystal surface-emitting lasers: a tutorial},
+  author = {Susumu Noda and Takuya Inoue and Masahiro Yoshida and John Gelleta and Menaka De Zoysa and Kenji Ishizaki},
+  year = {2023},
+  journal = {Advances in Optics and Photonics},
+  volume = {15},
+  pages = {977-1032},
+  doi = {10.1364/AOP.502863},
+  url = {https://opg.optica.org/aop/fulltext.cfm?uri=aop-15-4-977},
+  note = {AOP tutorial model; strong structure for physics-to-device-engineering narrative; Verification status: Verified}
+}
+
+@article{Ian2016OPTICADCS2016,
+  title = {Dual-comb spectroscopy},
+  author = {Ian Coddington and Nathan Newbury and William Swann},
+  year = {2016},
+  journal = {Optica},
+  volume = {3},
+  pages = {414-426},
+  doi = {10.1364/OPTICA.3.000414},
+  url = {https://opg.optica.org/abstract.cfm?uri=optica-3-4-414},
+  note = {Optica review article model; clean review structure and figures; Verification status: Verified}
+}
+
+@article{Haoning2026OPTICAMOIRE2026,
+  title = {Moiré nanophotonics: from fundamental concepts to device engineering},
+  author = {Haoning Tang and Xueqi Ni and Anastasiia Zalogina and Hugo Quard and Nathan Coste and Igor Aharonovich},
+  year = {2026},
+  journal = {Optica},
+  volume = {13},
+  pages = {1007-1019},
+  doi = {10.1364/OPTICA.591243},
+  url = {https://opg.optica.org/optica/abstract.cfm?uri=optica-13-6-1007},
+  note = {Recent Optica Review model; good example of physics, fabrication, outlook, and rich figures; Verification status: Verified}
+}
+
+@article{Duan2021FRONTMATS2021,
+  title = {Deep Learning for Photonic Design and Analysis: Principles and Applications},
+  author = {Duan and Wu and Chen and Chen and Yang},
+  year = {2021},
+  journal = {Frontiers in Materials},
+  volume = {8},
+  pages = {Article 791296},
+  doi = {10.3389/fmats.2021.791296},
+  url = {https://www.frontiersin.org/journals/materials/articles/10.3389/fmats.2021.791296/full},
+  note = {Open-access review useful for broader photonic DL taxonomy and principles; Verification status: Verified}
+}
+
+@article{Susumu2017IEEEJSTQE2017,
+  title = {Photonic-crystal surface-emitting lasers: review and introduction of modulated-photonic crystals},
+  author = {Susumu Noda and K. Kitamura and T. Okino and D. Yasuda and Y. Tanaka},
+  year = {2017},
+  journal = {IEEE Journal of Selected Topics in Quantum Electronics},
+  volume = {23},
+  pages = {1-7},
+  doi = {10.1109/JSTQE.2017.2696883},
+  url = {https://doi.org/10.1109/JSTQE.2017.2696883},
+  note = {IEEE top-tier tutorial/review style in photonic crystal devices; Verification status: Verified}
+}
+
+@article{Y2026IEEEJPHOT2026,
+  title = {Photonic Crystal Fiber-Based Optofluidic Platforms for Biomedical Diagnostics: A Comprehensive Review},
+  author = {Y. Kumar et al.},
+  year = {2026},
+  journal = {IEEE Photonics Journal},
+  volume = {forthcoming/online},
+  doi = {10.1109/JPHOT.2026.3686400},
+  url = {https://doi.org/10.1109/JPHOT.2026.3686400},
+  note = {Directly PCF review comparator; use only if within final search cutoff; Verification status: Needs subscription/metadata confirmation}
+}
+
+@article{Paul2021PHOTONICSRES2021,
+  title = {Deep learning in nano-photonics: inverse design and beyond},
+  author = {Paul R. Wiecha and Arka Majumdar and Arseniy I. Kuznetsov and Andrei E. Miroshnichenko and Daniel Brunner and etc.},
+  year = {2021},
+  journal = {Photonics Research},
+  volume = {9},
+  pages = {B182-B200},
+  doi = {10.1364/PRJ.415960},
+  url = {https://opg.optica.org/prj/abstract.cfm?uri=prj-9-5-b182},
+  note = {Strong Optica-family review for deep learning, inverse design, and nanophotonics; Verification status: Verify final metadata}
+}
+
+@article{Sean2018NPHOTMOLESKY2018,
+  title = {Inverse design in nanophotonics},
+  author = {Sean Molesky and Zin Lin and Alexander Y. Piggott and Weiliang Jin and Jelena Vuckovic and Alejandro W. Rodriguez},
+  year = {2018},
+  journal = {Nature Photonics},
+  volume = {12},
+  pages = {659-670},
+  doi = {10.1038/s41566-018-0246-9},
+  url = {https://www.nature.com/articles/s41566-018-0246-9},
+  note = {Foundational inverse nanophotonics review; important background, not PCF-primary; Verification status: Verify final metadata}
+}

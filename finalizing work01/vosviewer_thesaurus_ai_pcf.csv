@@ -1,0 +1,14 @@
+# Zotero library instructions
+
+1. Create a new Zotero collection named `AI-PCF systematic review`.
+2. Import all database exports into Zotero using File -> Import.
+3. Keep raw imports in source-specific subcollections: Scopus, Web of Science, IEEE, Optica-SPIE, ScienceDirect, Springer, Wiley, Google Scholar/citation chasing.
+4. Run Duplicate Items in Zotero only after all source collections are imported.
+5. Export the deduplicated collection as:
+   - `AI_PCF_deduplicated_master.ris`
+   - `AI_PCF_deduplicated_master.bib`
+   - `AI_PCF_deduplicated_master.csv` if available through plugin/export.
+6. Import the deduplicated set into Rayyan for screening.
+7. After screening, export Rayyan decisions as CSV and place them in `/05_rayyan/`.
+
+This package includes a small top-tier review model BibTeX file and a seed library from the previous package if available.
